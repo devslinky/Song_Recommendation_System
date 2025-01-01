@@ -1,0 +1,709 @@
+track_id,track_name,artist_name,popularity,album,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,duration_ms,time_signature,release_date
+0LN0ASTtcGIbNTnjSHG6eO,Pour Some Sugar On Me (2012),['Def Leppard'],0,Pour Some Sugar On Me (2012),0.497,0.849,9,-5.352,1,0.0612,0.00985,0.0,0.106,0.72,169.937,audio_features,261532,4,1987
+2zYzyRzz6pRmhPzyfMEC8s,Highway to Hell,['AC/DC'],84,Highway to Hell,0.574,0.913,6,-4.793,0,0.133,0.061,0.00158,0.156,0.423,115.728,audio_features,208400,4,1979-07-27
+37ZJ0p5Jm13JPevGcx4SkF,Livin' On A Prayer,['Bon Jovi'],83,Slippery When Wet,0.532,0.887,0,-3.757,1,0.0335,0.0778,0.000206,0.294,0.794,122.509,audio_features,249293,4,1986-08-16
+5RKQ5NdjSh2QzD4MaunT91,Don't Stop Believin' (2022 Remaster),['Journey'],85,Escape (2022 Remaster),0.505,0.754,4,-7.435,1,0.0366,0.132,0.0,0.204,0.51,119.204,audio_features,249600,4,1981-07-17
+7tFiyTwD0nx5a1eklYtX2J,Bohemian Rhapsody - Remastered 2011,['Queen'],69,A Night At The Opera (Deluxe Remastered Version),0.391,0.402,0,-9.961,0,0.0539,0.289,0.0,0.243,0.228,143.879,audio_features,354320,4,1975-11-21
+5ghIJDpPoe3CfHMGu71E6T,Smells Like Teen Spirit,['Nirvana'],76,Nevermind (Remastered),0.502,0.912,1,-4.556,1,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,audio_features,301920,4,1991-09-26
+4gMgiXfqyzZLMhsksGmbQV,"Another Brick in the Wall, Pt. 2",['Pink Floyd'],74,The Wall,0.693,0.394,0,-15.882,1,0.0428,0.0782,0.000694,0.247,0.721,104.114,audio_features,238746,4,1979-11-30
+6ZOBP3NvffbU4SZcrnt1k6,Kryptonite,['3 Doors Down'],78,The Better Life,0.545,0.865,11,-5.708,0,0.0286,0.00664,1.1e-05,0.168,0.543,99.005,audio_features,233933,4,2000
+0G21yYKMZoHa30cYVi1iA8,Welcome To The Jungle,"[""Guns N' Roses""]",80,Appetite For Destruction,0.454,0.987,8,-4.485,1,0.0881,0.0195,0.279,0.268,0.316,123.61,audio_features,273480,4,1987-07-21
+07q0QVgO56EorrSGHC48y3,I Was Made For Lovin' You,['KISS'],81,Dynasty,0.768,0.852,4,-6.215,1,0.038,0.214,7.36e-05,0.0723,0.867,128.373,audio_features,271240,4,1979-03-23
+1QEEqeFIZktqIpPI4jSVSF,More Than a Feeling,['Boston'],77,Boston,0.377,0.681,7,-8.039,1,0.0298,0.00088,0.0023,0.0504,0.285,108.789,audio_features,285133,4,1976
+3d9DChrdc6BOeFsbrZ3Is0,Under the Bridge,['Red Hot Chili Peppers'],80,Blood Sugar Sex Magik (Deluxe Edition),0.559,0.345,4,-13.496,1,0.0459,0.0576,0.000105,0.141,0.458,84.581,audio_features,264306,4,1991-09-24
+0PdM2a6oIjqepoEfcJo0RO,Pour Some Sugar On Me - Remastered 2017,['Def Leppard'],72,Hysteria (Super Deluxe),0.267,0.953,1,-4.899,0,0.096,0.00211,0.0,0.283,0.568,84.989,audio_features,267306,4,1987-08-03
+3VqHuw0wFlIHcIPWkhIbdQ,Enter Sandman (Remastered),['Metallica'],74,Metallica (Remastered),0.566,0.834,6,-8.412,0,0.0298,0.00277,0.008,0.0625,0.621,123.296,audio_features,331560,4,1991-08-12
+4DMKwE2E2iYDKY01C335Uw,Carry on Wayward Son,['Kansas'],73,Leftoverture (Expanded Edition),0.482,0.786,7,-5.735,1,0.032,0.00321,8.88e-05,0.446,0.793,126.755,audio_features,323000,4,1976
+3QZ7uX97s82HFYSmQUAN1D,Tom Sawyer,['Rush'],67,Moving Pictures (2011 Remaster),0.536,0.901,9,-7.211,1,0.0374,0.00145,0.0186,0.06,0.666,87.559,audio_features,276880,4,1981-02-12
+1CQqupcyMg7176PPmIVmSj,Renegade,['Styx'],65,Pieces Of Eight,0.492,0.552,7,-12.32,0,0.0341,0.0151,3.74e-05,0.0723,0.656,105.623,audio_features,257226,4,1978-01-01
+5tVA6TkbaAH9QMITTQRrNv,Free Fallin',['Tom Petty'],75,Full Moon Fever,0.623,0.449,5,-13.333,1,0.0253,0.212,0.0,0.0613,0.573,84.383,audio_features,256000,4,1989-01-01
+6H3kDe7CGoWYBabAeVWGiD,Gimme Shelter,['The Rolling Stones'],73,Let It Bleed,0.634,0.63,1,-8.277,0,0.031,0.447,0.039,0.17,0.489,118.628,audio_features,270773,4,1969-12-05
+7N3PAbqfTjSEU1edb2tY8j,Jump - 2015 Remaster,['Van Halen'],76,1984 (Remastered),0.572,0.835,0,-6.219,1,0.0317,0.171,0.000377,0.0702,0.795,129.981,audio_features,241599,4,1984-01-04
+5UWwZ5lm5PKu6eKsHAGxOk,Everlong,['Foo Fighters'],81,The Colour And The Shape,0.413,0.881,11,-5.541,0,0.0367,5.99e-05,0.000308,0.0805,0.364,158.066,audio_features,250546,4,1997-05-20
+40riOy7x9W7GXjyGp4pjAv,Hotel California - 2013 Remaster,['Eagles'],81,Hotel California (2013 Remaster),0.579,0.508,2,-9.484,1,0.027,0.00574,0.000494,0.0575,0.609,147.125,audio_features,391376,4,1976-12-08
+2aoo2jlRnM3A0NyLQqMN2f,All Along the Watchtower,['Jimi Hendrix'],72,Electric Ladyland,0.438,0.805,8,-6.237,1,0.0624,0.00255,5.69e-05,0.0842,0.564,113.253,audio_features,240800,4,1968-10-25
+7ACxUo21jtTHzy7ZEV56vU,Crazy Train,['Ozzy Osbourne'],75,Blizzard Of Ozz (40th Anniversary Expanded Edition),0.454,0.913,9,-4.008,1,0.107,0.408,0.000271,0.248,0.521,137.688,audio_features,293183,4,2020-09-18
+4Yqy0GpeDEXLibWJCZyQew,Kickstart My Heart,['Mötley Crüe'],76,Dr. Feelgood,0.363,0.982,7,-3.621,0,0.3,0.00123,0.00218,0.284,0.275,179.23,audio_features,282653,4,1989
+1Y373MqadDRtclJNdnUXVc,Paranoid - 2012 - Remaster,['Black Sabbath'],71,Paranoid (Remaster),0.412,0.658,4,-12.051,0,0.0708,4.52e-05,0.000774,0.176,0.454,163.071,audio_features,168405,4,1970-09-18
+0bRNszTbTFLNlunAeh7eom,Sharp Dressed Man (2008 Remaster),['ZZ Top'],75,Eliminator,0.601,0.859,5,-5.264,1,0.0276,0.000359,0.00124,0.0871,0.446,125.144,audio_features,258026,4,1983-03-23
+5QTxFnGygVM4jFQiBovmRo,(Don't Fear) The Reaper,['Blue Öyster Cult'],77,Agents Of Fortune,0.333,0.927,9,-8.55,0,0.0733,0.0029,0.000208,0.297,0.385,141.466,audio_features,308120,4,1976
+5RsUlxLto4NZbhJpqJbHfN,Jessie's Girl,['Rick Springfield'],73,Working Class Dog,0.727,0.834,2,-5.851,1,0.0496,0.165,0.0,0.105,0.816,131.7,audio_features,194120,4,1981-03-13
+31AOj9sFz2gM0O3hMARRBx,Losing My Religion,['R.E.M.'],82,Out Of Time (25th Anniversary Edition),0.666,0.855,9,-5.051,0,0.0295,0.179,1.2e-06,0.0987,0.803,125.639,audio_features,268426,4,1991-03-12
+4BP3uh0hFLFRb5cjsgLqDh,Fortunate Son,['Creedence Clearwater Revival'],83,Willy And The Poor Boys (Expanded Edition),0.64,0.663,0,-7.516,1,0.0374,0.201,0.00806,0.152,0.663,132.77,audio_features,140773,4,1969-11-02
+3gdewACMIVMEWVbyb8O9sY,"Rocket Man (I Think It's Going To Be A Long, Long Time)",['Elton John'],79,Honky Chateau,0.601,0.532,10,-9.119,1,0.0286,0.433,5.95e-06,0.0925,0.342,136.576,audio_features,281613,4,1972-05-19
+1kdiiFGX1Htx0aVZYaDwEJ,Tears Don't Fall,['Bullet For My Valentine'],61,The Poison,0.213,0.927,7,-3.378,0,0.14,0.000729,4.85e-06,0.081,0.28,162.109,audio_features,348386,4,2006-02-14
+6zKF4293k44ItKWJJgrhXv,My Curse,['Killswitch Engage'],66,As Daylight Dies (Special Edition),0.197,0.956,10,-2.908,0,0.0663,7.61e-05,0.00992,0.261,0.209,177.018,audio_features,244773,3,2007-02-06
+7EZC6E7UjZe63f1jRmkWxt,Zombie,['The Cranberries'],82,No Need To Argue (The Complete Sessions 1994-1995),0.309,0.649,7,-8.994,1,0.035,0.0158,0.00591,0.367,0.312,166.915,audio_features,306440,4,1994-10-03
+1hlveB9M6ijHZRbzZ2teyh,We're Not Gonna Take It,['Twisted Sister'],68,Stay Hungry,0.502,0.924,4,-6.299,1,0.0503,0.0127,0.0,0.162,0.922,149.186,audio_features,219666,4,1984-05-10
+07nxmAxwhY51juyImllKD2,Once Bitten Twice Shy,['Great White'],55,Twice Shy,0.722,0.54,0,-14.025,1,0.0303,0.028,0.00319,0.133,0.608,131.676,audio_features,322896,4,1989-01-01
+4KfSdst7rW39C0sfhArdrz,Barracuda,['Heart'],74,Little Queen,0.548,0.691,4,-13.553,0,0.0369,0.015,0.106,0.144,0.667,137.145,audio_features,261933,4,1977-05-14
+4f3RDq9nYPBeR1yMSgnmBm,You've Got Another Thing Coming,['Judas Priest'],62,Screaming For Vengeance (Expanded Edition),0.519,0.833,6,-6.947,0,0.0496,0.00572,4.33e-06,0.104,0.532,138.225,audio_features,310080,4,1982
+1xsYj84j7hUDDnTTerGWlH,Dream On,['Aerosmith'],80,Aerosmith,0.392,0.476,1,-7.583,1,0.0249,0.397,0.000163,0.309,0.234,78.031,audio_features,267596,4,1973-01-05
+1nmZ8yqKkfooOuYvtFctDp,Heat Of The Moment,['Asia'],67,Asia,0.306,0.86,1,-7.371,1,0.0534,0.204,0.000146,0.369,0.541,136.265,audio_features,227893,4,1982-03-08
+7e89621JPkKaeDSTQ3avtg,Sweet Home Alabama,['Lynyrd Skynyrd'],78,Second Helping (Expanded Edition),0.596,0.606,7,-12.145,1,0.0255,0.181,0.000327,0.0863,0.886,97.785,audio_features,283800,4,1974-04-15
+5EOoMWIB9iK4ZpcSex9Ec7,Old Time Rock & Roll,['Bob Seger'],74,Stranger In Town,0.714,0.937,6,-2.947,1,0.0399,0.206,0.0,0.0731,0.964,124.13,audio_features,194146,4,1978-05-05
+7b4yGtR0rujvLi5EBfKKJ2,Take Me Home Tonight,['Eddie Money'],66,Can't Hold Back,0.608,0.768,1,-9.911,1,0.0364,0.101,1.41e-06,0.0942,0.748,132.699,audio_features,211160,4,1986-10-15
+2HHtWyy5CgaQbC7XSoOb0e,Eye of the Tiger,['Survivor'],77,Eye Of The Tiger,0.815,0.438,0,-14.522,0,0.0346,0.216,0.000466,0.0787,0.552,108.965,audio_features,243773,4,1982
+60a0Rd6pjrkxjPbaKzXjfq,In the End,['Linkin Park'],87,Hybrid Theory (Bonus Edition),0.556,0.864,3,-5.87,0,0.0584,0.00958,0.0,0.209,0.4,105.143,audio_features,216880,4,2000
+003vvx7Niy0yvhvHt4a68B,Mr. Brightside,['The Killers'],85,Hot Fuss,0.352,0.911,1,-5.23,1,0.0747,0.00121,0.0,0.0995,0.236,148.033,audio_features,222973,4,2004
+2m1hi0nfMR9vdGC8UcrnwU,All The Small Things,['blink-182'],81,Enema Of The State,0.434,0.897,0,-4.918,1,0.0488,0.0103,0.0,0.612,0.685,148.708,audio_features,167066,4,1999-06-01
+4TIJ7zSBNejpoIPaWpWRKc,Rebel Yell,['Billy Idol'],73,Rebel Yell,0.531,0.864,4,-4.948,0,0.0611,0.000753,0.00046,0.354,0.485,166.312,audio_features,288533,4,1983-11-01
+1uvyZBs4IZYRebHIB1747m,Purple Rain,['Prince'],72,Purple Rain,0.373,0.452,10,-10.417,1,0.0321,0.0354,0.00227,0.689,0.179,113.212,audio_features,521866,4,1984-06-25
+1JLn8RhQzHz3qDqsChcmBl,I Want to Know What Love Is - 1999 Remaster,['Foreigner'],81,Agent Provocateur,0.477,0.471,6,-10.036,1,0.0277,0.193,1.76e-06,0.131,0.423,81.204,audio_features,304786,4,1984-12-12
+4rcHWl68ai6KvpXlc8vbnE,Keep on Loving You,['REO Speedwagon'],70,Hi Infidelity (30th Anniversary Edition),0.306,0.722,0,-5.963,1,0.034,0.0519,0.0,0.117,0.41,174.732,audio_features,200293,4,1980
+3qiyyUfYe7CRYLucrPmulD,Baba O'Riley,['The Who'],72,Who's Next (Deluxe Edition),0.489,0.724,5,-8.367,1,0.0352,0.313,0.185,0.287,0.15,117.292,audio_features,300400,4,1971-08-14
+4UEo1b0wWrtHMC8bVqPiH8,Nightmare,['Avenged Sevenfold'],70,Nightmare,0.554,0.949,2,-4.928,1,0.0787,0.000318,9.98e-05,0.2,0.233,129.984,audio_features,374453,4,2010-07-23
+7ygpwy2qP3NbrxVkHvUhXY,Wonderwall - Remastered,['Oasis'],78,(What's The Story) Morning Glory? (Deluxe Remastered Edition),0.375,0.893,2,-4.097,1,0.0406,0.000509,0.0,0.187,0.434,174.323,audio_features,258773,4,1995
+1bp2IO61zbQrbWNmKKxg3f,The Joker,['Steve Miller Band'],73,The Joker,0.596,0.448,5,-9.616,1,0.0396,0.365,5.3e-06,0.206,0.796,83.293,audio_features,264503,4,1973-01-01
+2EoOZnxNgtmZaD8uUmz2nD,Black Hole Sun,['Soundgarden'],76,Superunknown (Deluxe Edition),0.35,0.828,6,-5.373,1,0.041,0.000217,0.000161,0.0774,0.147,105.435,audio_features,318586,4,1994-03-09
+58XWGx7KNNkKneHdprcprX,Rock You Like A Hurricane,['Scorpions'],69,Love At First Sting,0.482,0.617,4,-12.931,0,0.0458,0.00543,0.000146,0.284,0.718,125.697,audio_features,252493,4,1984-03-27
+6W2VbtvMrDXm5vYeB7amkO,Footloose,['Kenny Loggins'],70,"Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",0.546,0.895,9,-7.189,1,0.0579,0.0819,1.42e-05,0.0768,0.494,174.089,audio_features,220706,4,1997-03-25
+2V8KvnD5LVeeDChMWEkSzC,Nothin' But A Good Time - Remastered 2006,['Poison'],67,Open Up And Say...Ahh! (20th Anniversary Edition),0.576,0.974,1,-2.785,1,0.0829,0.0199,0.0,0.348,0.53,129.088,audio_features,224866,4,1988-03-21
+3620P9KJS2PDebJ9ABFitc,18 and Life,['Skid Row'],71,Skid Row,0.303,0.648,1,-11.101,0,0.0347,0.00226,1.49e-05,0.112,0.305,180.898,audio_features,229960,4,1989-01-24
+18ESXa5mEm1V4Pkt5GSXWx,Cherry Pie,['Warrant'],61,Cherry Pie (Expanded Edition),0.407,0.955,2,-4.164,1,0.164,0.0251,0.0,0.347,0.508,177.48,audio_features,201106,4,1990-05-01
+3AhXZa8sUQht0UEdBJgpGc,Like a Rolling Stone,['Bob Dylan'],69,Highway 61 Revisited,0.482,0.721,0,-6.839,1,0.0321,0.731,0.0,0.189,0.557,95.263,audio_features,369600,4,1965-08-30
+14XWXWv5FoCbFzLksawpEe,Riders on the Storm,['The Doors'],70,L.A. Woman,0.55,0.722,11,-11.729,0,0.0283,0.25,0.0129,0.11,0.716,103.886,audio_features,434720,4,1971-04-19
+3ykSdTGmYPFl8pDBXer1zG,Cocaine,['Eric Clapton'],62,Slowhand 35th Anniversary (Super Deluxe),0.699,0.502,9,-12.526,1,0.0278,0.0607,0.0337,0.317,0.676,105.266,audio_features,221640,4,1977-11-01
+5p3JunprHCxClJjOmcLV8G,Walk On the Wild Side,['Lou Reed'],74,Transformer,0.575,0.318,0,-16.729,1,0.109,0.683,0.000202,0.0934,0.385,104.522,audio_features,254173,4,1972-12-01
+0COqiPhxzoWICwFCS4eZcp,Bring Me To Life,['Evanescence'],84,Fallen,0.331,0.943,4,-3.188,0,0.0698,0.00721,2.06e-06,0.242,0.296,94.612,audio_features,235893,4,2003-03-04
+5wQnmLuC1W7ATsArWACrgW,Welcome to the Black Parade,['My Chemical Romance'],76,The Black Parade,0.217,0.905,2,-4.103,1,0.0752,0.000289,0.00011,0.222,0.236,96.95,audio_features,311106,4,2006-10-23
+305WCRhhS10XUcH6AEwZk6,Are You Gonna Be My Girl,['Jet'],75,Get Born,0.606,0.957,2,-3.404,1,0.0814,0.00117,0.000295,0.14,0.603,105.105,audio_features,213800,4,2003-09-15
+6TfBA04WJ3X1d1wXhaCFVT,"You're Gonna Go Far, Kid",['The Offspring'],81,"Rise And Fall, Rage And Grace",0.55,0.917,0,-3.159,1,0.0638,0.00428,0.0,0.197,0.601,126.115,audio_features,177826,4,2008-06-17
+2DlHlPMa4M17kufBvI2lEN,Chop Suey!,['System Of A Down'],83,Toxicity,0.417,0.934,7,-3.908,0,0.119,0.000278,0.0015,0.132,0.287,127.066,audio_features,210240,4,2001-09-04
+5NLuC70kZQv8q34QyQa1DP,Fight For Your Right,['Beastie Boys'],68,Licensed To Ill,0.503,0.858,8,-6.296,1,0.0657,0.00757,0.00234,0.0803,0.419,133.615,audio_features,208653,5,1986-11-15
+5SAUIWdZ04OxYfJFDchC7S,Smoke on the Water,['Deep Purple'],61,Machine Head,0.632,0.586,0,-11.333,1,0.0284,0.0983,0.581,0.0535,0.89,114.243,audio_features,342173,4,1972-03-25
+43DeSV93pJPT4lCZaWZ6b1,The Boys Are Back In Town,['Thin Lizzy'],70,Jailbreak (Deluxe Edition),0.445,0.706,8,-9.803,1,0.0461,0.234,0.000252,0.205,0.768,80.823,audio_features,266720,4,1976
+57trQKFZdJxHia4sMJioWk,Sister Christian,['Night Ranger'],58,Midnight Madness,0.448,0.35,5,-16.239,1,0.0393,0.147,2.27e-06,0.0842,0.234,177.279,audio_features,302933,4,1983-01-01
+5t5rCnsgRBtcKqTB7SbD1Q,High Enough,['Damn Yankees'],56,Damn Yankees,0.273,0.537,2,-9.612,1,0.0306,0.0241,0.0,0.0922,0.232,81.814,audio_features,287320,4,1990
+1IqFh00G2kvvMm8pRMpehA,Me and Bobby McGee,['Janis Joplin'],67,Pearl (Legacy Edition),0.43,0.463,2,-10.96,1,0.0442,0.303,5.84e-05,0.152,0.66,93.405,audio_features,271333,4,1971-01-11
+5ZBeML7Lf3FMEVviTyvi8l,Twist And Shout - Remastered 2009,['The Beatles'],76,Please Please Me (Remastered),0.482,0.849,2,-9.198,1,0.0452,0.641,7.74e-06,0.0414,0.937,124.631,audio_features,155226,4,1963-03-22
+5sFDReWLrZHLFZFjHsjUTS,Would? (2022 Remaster),['Alice In Chains'],72,Dirt (2022 Remaster),0.297,0.842,6,-7.457,1,0.0488,0.000286,9.1e-06,0.0848,0.586,100.127,audio_features,206773,4,1992-09-29
+2HXixVqzzm9rEUIMAWzshl,I Hate Myself for Loving You,['Joan Jett & the Blackhearts'],65,Up Your Alley,0.611,0.882,9,-11.225,1,0.0538,0.0847,1.08e-06,0.192,0.605,117.932,audio_features,246800,4,1988-05-23
+4KcH1ZRV2W1q7Flq0QqC76,Blitzkrieg Bop - 2016 Remaster,['Ramones'],71,Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),0.385,0.783,9,-2.533,1,0.233,0.000269,0.47,0.108,0.902,176.701,audio_features,134466,4,1976-04-23
+2g7gviEeJr6pyxO7G35EWQ,Paradise By the Dashboard Light,['Meat Loaf'],63,Bat Out Of Hell,0.326,0.872,2,-7.602,1,0.122,0.214,0.0,0.461,0.492,173.381,audio_features,508333,4,1977-10-21
+56sk7jBpZV0CD31G9hEU3b,Animal I Have Become,['Three Days Grace'],77,One-X,0.553,0.853,8,-3.668,1,0.0339,0.000684,0.0,0.126,0.506,122.023,audio_features,231400,4,2006-06-25
+5Z8EDau8uNcP1E8JvmfkZe,School's Out,['Alice Cooper'],64,School's Out,0.294,0.745,5,-9.138,1,0.0461,0.05,0.125,0.676,0.347,134.364,audio_features,210106,4,1972
+0d28khcov6AiegSCpG5TuT,Feel Good Inc.,['Gorillaz'],82,Demon Days,0.818,0.705,6,-6.679,1,0.177,0.00836,0.00233,0.613,0.772,138.559,audio_features,222640,4,2005-05-23
+7nnWIPM5hwE3DaUBkvOIpy,Drive,['Incubus'],77,Make Yourself,0.645,0.792,4,-7.34,0,0.036,0.0562,0.0121,0.119,0.666,90.565,audio_features,232453,4,1999-10-26
+5QRs63VVKNaqUjg6XSSckM,Don't Know What You Got (Till It's Gone),['Cinderella'],59,Long Cold Winter,0.384,0.536,9,-9.939,1,0.0288,0.238,0.000468,0.0533,0.231,131.965,audio_features,354640,4,1988
+3vV3cr2TpPqFk07zxYUbla,Cum on Feel the Noize,['Quiet Riot'],68,Metal Health,0.409,0.92,11,-5.439,0,0.12,0.00719,0.00105,0.0823,0.37,145.085,audio_features,290960,4,1983
+2eEmzSR9tmd52w7cqT9yK6,Hold On Loosely,['38 Special'],40,Flashback,0.541,0.572,9,-10.834,1,0.0316,0.028,0.000338,0.091,0.854,127.504,audio_features,279240,4,1987-01-01
+0GQmBK4A5hFQdjhYCFCbtK,Wrong Side of Heaven,['Five Finger Death Punch'],65,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",0.483,0.926,4,-5.122,0,0.0667,0.00661,0.0,0.29,0.528,150.012,audio_features,271000,4,2013-07-30
+45Ia1U4KtIjAPPU7Wv1Sea,Are You Gonna Go My Way,['Lenny Kravitz'],71,Are You Gonna Go My Way,0.619,0.67,11,-10.322,0,0.0353,0.00165,0.0109,0.331,0.777,129.269,audio_features,211933,4,1993-03-09
+6nTiIhLmQ3FWhvrGafw2zj,American Idiot,['Green Day'],79,American Idiot,0.38,0.988,1,-2.042,1,0.0639,2.64e-05,7.86e-05,0.368,0.769,186.113,audio_features,176346,4,2004-09-21
+57P8gH8rjt4OqEoqzut1bL,Round and Round,['Ratt'],66,The Essentials: Ratt,0.628,0.934,11,-6.026,1,0.0527,0.00682,1.11e-05,0.0853,0.491,126.539,audio_features,265893,4,1984
+7pKfPomDEeI4TPT6EOYjn9,Imagine - Remastered 2010,['John Lennon'],75,Imagine,0.547,0.257,0,-12.358,1,0.0252,0.907,0.183,0.0935,0.169,75.752,audio_features,187866,4,1971-09-09
+6GG73Jik4jUlQCkKg9JuGO,The Middle,['Jimmy Eat World'],80,Bleed American,0.643,0.849,2,-5.428,1,0.0526,0.0371,0.0,0.058,0.903,162.152,audio_features,165853,4,2001-07-17
+3lN8PP6R2IxbLP05QpYXng,Born To Be Wild - Single Version,['Steppenwolf'],65,Steppenwolf,0.439,0.734,2,-12.168,1,0.097,0.262,0.333,0.244,0.54,145.703,audio_features,212893,4,1968-01-01
+43GS3mtezoIFiuIZCLLiDY,Every Rose Has Its Thorn - 2003 Remaster,['Poison'],68,Open Up And Say...Ahh! (20th Anniversary Edition),0.531,0.632,6,-5.557,1,0.0312,0.16,1.14e-05,0.364,0.294,140.176,audio_features,260173,4,1988-03-21
+52KvuGmgcgRdrLMXOtda0E,The Stroke - Remastered 2010,['Billy Squier'],65,Don't Say No (Remastered 2010),0.67,0.591,7,-6.012,1,0.0646,0.62,0.0,0.373,0.8,91.439,audio_features,217613,4,1981
+1qOU8KzFifXE9YrgjVwYvc,Here I Go Again - 2018 Remaster,['Whitesnake'],60,Whitesnake (2018 Remaster),0.292,0.823,7,-6.763,1,0.0407,0.0117,7.79e-05,0.155,0.244,89.939,audio_features,275395,4,1987-04-07
+1MqGKtY9L5qjPi8s7gX645,I Can't Drive 55,['Sammy Hagar'],54,Voa,0.537,0.645,9,-12.362,1,0.0308,0.00214,3.21e-05,0.0911,0.848,133.745,audio_features,254466,4,1984-01-01
+7Ewz6bJ97vUqk5HdkvguFQ,Heaven,['Bryan Adams'],77,Reckless (30th Anniversary / Deluxe Edition),0.379,0.589,9,-7.315,0,0.027,0.0473,0.0,0.122,0.334,140.068,audio_features,243360,4,1984-11-05
+43btz2xjMKpcmjkuRsvxyg,Jack & Diane,['John Mellencamp'],70,American Fool,0.811,0.41,9,-8.214,1,0.0391,0.0365,6.63e-06,0.0799,0.626,103.963,audio_features,254493,4,1982
+3dPQuX8Gs42Y7b454ybpMR,Seven Nation Army,['The White Stripes'],82,Elephant,0.743,0.446,4,-7.807,0,0.0683,0.0039,0.118,0.337,0.278,123.596,audio_features,232106,4,2003-04-01
+3KPwt1LBpt1jVSHz8GXERo,Feel like Makin' Love - 2015 Remaster,['Bad Company'],63,Straight Shooter,0.543,0.529,7,-9.717,1,0.0301,0.326,0.00269,0.709,0.746,85.126,audio_features,313840,4,1975
+1ChulFMnwxoD74Me8eX2TU,You Spin Me Round (Like a Record),['Dead Or Alive'],74,Evolution: The Hits,0.554,0.963,6,-3.762,0,0.035,0.000244,0.0702,0.431,0.918,128.175,audio_features,195146,4,1983
+5PntSbMHC1ud6Vvl8x56qd,Loser,['Beck'],69,Mellow Gold,0.654,0.611,2,-10.45,1,0.119,0.0337,0.000178,0.405,0.786,85.387,audio_features,235000,4,1994-03-01
+1JkZg3eMQTmTn93E8Yd3UL,I Want You to Want Me,['Cheap Trick'],64,In Color,0.806,0.462,2,-12.778,1,0.0298,0.774,0.0122,0.15,0.738,92.726,audio_features,191226,4,1977-09
+35k31HZI4z9PbBOioaI4dZ,Working for the Weekend,['Loverboy'],65,Get Lucky,0.515,0.766,7,-12.768,1,0.0343,0.0249,0.00103,0.455,0.774,146.911,audio_features,221000,4,1981
+4zEi4tr3lEhiAvTRxEzbEz,Oh Sherrie,['Steve Perry'],60,Street Talk (Expanded Edition),0.333,0.695,5,-5.116,1,0.0465,0.372,7.13e-06,0.107,0.317,203.753,audio_features,229346,4,1984-04-01
+0WoFs3EdGOx58yX5BtXvOa,Your Love,['The Outfield'],80,Play Deep,0.578,0.654,1,-12.421,0,0.0562,0.121,3.62e-06,0.0673,0.621,129.513,audio_features,216466,4,1985-06-29
+1DndHckdH9m5rp6gYP086b,Runaround Sue,['Dion'],67,Runaround Sue,0.364,0.607,2,-9.791,1,0.125,0.451,0.0,0.251,0.598,79.987,audio_features,171600,4,1961
+40rvBMQizxkIqnjPdEWY1v,Down with the Sickness,['Disturbed'],74,The Sickness,0.695,0.876,3,-4.262,0,0.0553,0.000996,6.89e-06,0.106,0.941,89.954,audio_features,279213,4,2000-03-07
+1yJWqYYDQge60nZKdLyiZU,When I Look Into Your Eyes,['Firehouse'],60,Hold Your Fire,0.396,0.612,6,-8.039,1,0.0277,0.00288,4.71e-05,0.233,0.241,146.759,audio_features,239866,4,1992-03-31
+42et6fnHCw1HIPSrdPprMl,Semi-Charmed Life,['Third Eye Blind'],73,Third Eye Blind,0.64,0.864,7,-6.576,1,0.0314,0.00832,0.0,0.123,0.701,102.026,audio_features,268360,4,1997-04-08
+4VqPOruhp5EdPBeR92t6lQ,Uprising,['Muse'],74,The Resistance,0.602,0.905,2,-4.046,1,0.0775,0.000202,0.064,0.117,0.411,128.019,audio_features,304840,4,2009-09-10
+5ChkMS8OtdzJeqyybCc9R5,Billie Jean,['Michael Jackson'],77,Thriller 25 Super Deluxe Edition,0.92,0.654,11,-3.051,0,0.0401,0.0236,0.0153,0.036,0.847,117.046,audio_features,293826,4,2008-02-08
+3LQPTJEqOfljGBxmpgUnoC,American Woman - 2024 Remaster,['The Guess Who'],59,American Woman,0.55,0.726,2,-8.51,1,0.0516,0.146,0.00608,0.428,0.37,92.697,audio_features,307493,4,1970-01-01
+4xh7W7tlNMIczFhupCPniY,Go Your Own Way - 2004 Remaster,['Fleetwood Mac'],63,Rumours (Super Deluxe),0.586,0.941,5,-5.139,1,0.0375,0.0167,0.000776,0.068,0.831,135.448,audio_features,223613,4,1977-02-04
+1HNE2PX70ztbEl6MLxrpNL,In Too Deep,['Sum 41'],74,"All Killer, No Filler",0.569,0.843,9,-5.875,1,0.0503,0.000189,0.0,0.0607,0.76,116.045,audio_features,207093,4,2001-01-01
+547JIm8YGOKDzBp2JsX4a4,Turn up the Radio,['Autograph'],49,This Is The Day: Feel Good Summer Hits,0.621,0.883,2,-9.641,1,0.0574,0.0364,0.000273,0.323,0.439,110.316,audio_features,275533,4,2023-07-07
+3JjY2L2bqql54j1SjnjQ23,(Can't Live Without Your) Love And Affection - Remastered 2017,['Nelson'],48,After The Rain (Remastered),0.541,0.904,1,-6.384,1,0.0404,0.0423,0.0,0.0589,0.833,121.386,audio_features,236435,4,1990-06-26
+42T2QQv3xgBlpQxaSP7lnK,One Last Breath,['Creed'],79,Weathered,0.386,0.677,2,-5.83,1,0.0346,0.00841,0.00366,0.341,0.195,126.602,audio_features,238240,4,2001-01-01
+18AXbzPzBS8Y3AkgSxzJPb,In The Air Tonight - 2015 Remastered,['Phil Collins'],76,Face Value (Deluxe Editon),0.446,0.239,0,-13.945,1,0.0316,0.551,4.1e-06,0.0697,0.298,189.507,audio_features,336453,4,1981-01-01
+5DiXcVovI0FcY2s0icWWUu,Mr. Jones,['Counting Crows'],77,August And Everything After,0.578,0.817,0,-6.541,1,0.0363,0.183,2.85e-06,0.285,0.734,141.621,audio_features,272293,4,1993-01-01
+4j3X4KX8rURekAVIFUhI23,Perfect,['Simple Plan'],68,"No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",0.494,0.672,3,-4.877,1,0.0405,0.0273,0.0,0.105,0.557,156.208,audio_features,277026,4,2002-03-19
+61mWefnWQOLf90gepjOCb3,Duality,['Slipknot'],79,Vol. 3: The Subliminal Verses,0.354,0.982,4,-3.026,0,0.168,0.000237,0.000294,0.204,0.194,143.772,audio_features,252613,4,2004
+0lP4HYLmvowOKdsQ7CVkuq,The Kill,['Thirty Seconds To Mars'],77,A Beautiful Lie,0.179,0.912,4,-3.881,0,0.0791,0.0014,0.000294,0.582,0.289,182.99,audio_features,231533,3,2005-01-01
+5FVd6KXrgO9B3JPmC8OPst,Do I Wanna Know?,['Arctic Monkeys'],84,AM,0.548,0.532,5,-7.596,1,0.0323,0.186,0.000263,0.217,0.405,85.03,audio_features,272394,4,2013-09-09
+36lkJSDyMEZoWTqtRj8Q8q,You're the Inspiration - 2006 Remaster,['Chicago'],72,Chicago 17 (Expanded & Remastered),0.583,0.602,11,-6.364,1,0.0274,0.368,0.0,0.22,0.388,74.008,audio_features,229240,4,1984-05-14
+3CIOopLwvyMvXk97ZEksKO,Ace of Spades,['Motörhead'],70,Ace of Spades (Expanded Edition),0.322,0.991,6,-4.453,1,0.213,0.00313,0.0035,0.0708,0.198,140.221,audio_features,168320,4,1980-11-08
+1JSTJqkT5qHq8MDJnJbRE1,Every Breath You Take,['The Police'],86,Synchronicity (Remastered 2003),0.82,0.452,1,-9.796,1,0.0348,0.543,0.00294,0.0714,0.74,117.401,audio_features,253920,4,1983-06-17
+2374M0fQpWi3dLnB54qaLX,Africa,['TOTO'],84,Toto IV,0.671,0.373,9,-18.064,1,0.0323,0.257,8.01e-05,0.0481,0.732,92.718,audio_features,295893,4,1982-04-08
+1KkKFxAOb4kDpWH8IeLa7A,Fly To The Angels,['Slaughter'],50,Mass Slaughter: The Best Of Slaughter,0.501,0.576,0,-12.26,1,0.0358,0.073,0.000277,0.101,0.369,119.968,audio_features,272240,4,1995-01-01
+4ENa9MbktJjV3HiTnlsg2b,Seventeen,['Winger'],56,Winger,0.578,0.676,8,-11.93,1,0.0294,0.000895,2.14e-06,0.0625,0.675,95.978,audio_features,245266,4,1988-08-10
+4ebcE2SmkG7nplvzFAWRu7,What I Like About You,['The Romantics'],63,The Romantics,0.514,0.942,9,-8.433,1,0.0502,0.282,6.6e-05,0.17,0.912,159.847,audio_features,175266,4,1980
+5QLHGv0DfpeXLNFo7SFEy1,1979 - Remastered 2012,['The Smashing Pumpkins'],77,Mellon Collie And The Infinite Sadness (Deluxe Edition),0.767,0.787,3,-9.897,1,0.0331,0.0163,0.583,0.0513,0.964,126.879,audio_features,266200,4,1995
+2Gy7qnDwt8Z3MNxqat4CsK,Wouldn't It Be Nice,['The Beach Boys'],63,Pet Sounds (Original Mono & Stereo Mix),0.392,0.629,5,-7.056,1,0.0334,0.718,3.65e-06,0.129,0.72,124.511,audio_features,153205,4,1966-06-16
+7yFvSYKk3g5g8e7Ffl16ws,Three Little Birds,['Bob Marley & The Wailers'],77,Exodus,0.826,0.49,9,-10.477,1,0.0676,0.00916,4.41e-06,0.0415,0.627,74.128,audio_features,180266,4,1977-06-03
+1gtHjIoQIU5XIcRGjn7DfH,Crazy Bitch,['Buckcherry'],65,15,0.655,0.977,1,-3.055,0,0.109,0.0253,0.0,0.0866,0.587,97.997,audio_features,202720,4,2006-09-25
+6ZxrUCaynLgKSUudACOTwj,Cold,['Crossfade'],72,Crossfade,0.451,0.815,2,-5.55,0,0.0368,6.06e-05,0.0,0.27,0.618,147.974,audio_features,194226,4,2004-04-13
+3asFGFY3uLjMDmML1p0tYm,Savior,['Rise Against'],60,Appeal To Reason,0.339,0.931,5,-3.425,0,0.062,0.0015,0.000142,0.425,0.467,112.545,audio_features,242280,4,2008-01-01
+40LQiUUUKXVGyNs09lHVjW,Lips Of An Angel,['Hinder'],72,Extreme Behavior,0.476,0.736,2,-5.38,1,0.0343,0.0217,1.08e-06,0.203,0.251,129.084,audio_features,261853,4,2005-01-01
+0SvfyHYDp2uIsHt53LDlI9,Cat Scratch Fever,['Ted Nugent'],51,Cat Scratch Fever,0.549,0.916,4,-4.185,0,0.034,0.0049,0.123,0.104,0.632,127.131,audio_features,219400,4,1977-04-12
+4MYb7NWLwXNDB7bYs3HeX8,Slow Ride - Edit,['Foghat'],60,Slow Ride / Save Your Loving (For Me),0.494,0.586,2,-13.909,1,0.0461,0.0201,0.00104,0.102,0.651,113.618,audio_features,232533,4,1975
+7CpbhqKUedOIrcvc94p60Y,Bodies,['Drowning Pool'],75,Sinner,0.656,0.932,4,-3.405,0,0.0708,0.00347,0.00147,0.144,0.544,130.936,audio_features,201960,4,2001-01-01
+3pRaLNL3b8x5uBOcsgvdqM,Hallelujah,['Jeff Buckley'],67,Grace,0.324,0.136,0,-10.33,1,0.0318,0.931,0.00117,0.176,0.0831,97.256,audio_features,413826,3,1994
+3fH4KjXFYMmljxrcGrbPj9,Don't You (Forget About Me),['Simple Minds'],74,Once Upon A Time (Super Deluxe),0.66,0.816,2,-6.61,1,0.0299,0.168,0.0181,0.0608,0.678,111.346,audio_features,263040,4,1985
+5b1jZ9geGD4boxz24XgGPp,Run to the Hills (2015 Remaster),['Iron Maiden'],57,The Number of the Beast (2015 Remaster),0.249,0.943,0,-5.188,1,0.0665,0.0286,0.00404,0.161,0.457,173.672,audio_features,233506,4,1982-03-22
+6qLEOZvf5gI7kWE63JE7p3,Interstate Love Song - 2019 Remaster,['Stone Temple Pilots'],74,Purple (2019 Remaster),0.215,0.927,9,-7.327,1,0.0452,0.000273,0.00661,0.126,0.49,170.814,audio_features,194853,4,1994-06-07
+6OnfBiiSc9RGKiBKKtZXgQ,We Built This City,['Starship'],73,Knee Deep In The Hoopla,0.661,0.908,5,-4.897,1,0.039,0.052,0.0,0.0708,0.656,144.091,audio_features,296080,4,1985-09-10
+6Qyc6fS4DsZjB2mRW9DsQs,Iris,['The Goo Goo Dolls'],87,Dizzy up the Girl,0.315,0.715,11,-8.072,0,0.0362,0.00125,7.97e-06,0.0942,0.497,155.925,audio_features,289533,3,1998
+39lSeqnyjZJejRuaREfyLL,Hungry Like the Wolf - 2009 Remaster,['Duran Duran'],72,Rio (Collector's Edition),0.691,0.812,0,-7.772,1,0.0558,0.0433,1.16e-06,0.299,0.685,127.568,audio_features,220626,4,1982-05-10
+57JVGBtBLCfHw2muk5416J,Another One Bites The Dust - Remastered 2011,['Queen'],71,The Game (Deluxe Remastered Version),0.932,0.528,5,-6.472,0,0.161,0.115,0.329,0.163,0.757,109.975,audio_features,214653,4,1980-06-27
+2CtemffYhT0DJWcT1XW047,Nothing Else Matters (Remastered),['Metallica'],68,Metallica (Remastered),0.547,0.394,4,-9.793,0,0.0262,0.0522,6.4e-06,0.0795,0.17,142.37,audio_features,388733,3,1991-08-12
+6eN1f9KNmiWEhpE2RhQqB5,Paradise City,"[""Guns N' Roses""]",78,Appetite For Destruction,0.268,0.98,11,-5.959,1,0.101,0.019,0.00692,0.182,0.39,100.316,audio_features,405600,4,1987-07-21
+4JfuiOWlWCkjP6OKurHjSn,Walk This Way,['Aerosmith'],73,Toys In The Attic,0.653,0.73,5,-10.613,1,0.0429,0.0115,1.02e-05,0.0776,0.894,108.709,audio_features,220310,4,1975-04-08
+4P5KoWXOxwuobLmHXLMobV,Come As You Are,['Nirvana'],76,Nevermind (Remastered),0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125,audio_features,218920,4,1991-09-26
+0rmGAIH9LNJewFw7nKzZnc,You Give Love A Bad Name,['Bon Jovi'],81,Slippery When Wet,0.541,0.959,0,-2.947,0,0.0505,0.0663,2.18e-06,0.344,0.812,122.805,audio_features,222706,4,1986-08-16
+08mG3Y1vljYA6bvDt4Wqkj,Back In Black,['AC/DC'],83,Back In Black,0.31,0.7,9,-5.678,1,0.047,0.011,0.00965,0.0828,0.763,188.386,audio_features,255493,4,1980-07-25
+05RgAMGypEvqhNs5hPCbMS,Panama - 2015 Remaster,['Van Halen'],72,1984 (Remastered),0.526,0.978,8,-5.436,1,0.108,0.00122,4.75e-05,0.0744,0.451,141.167,audio_features,210226,4,1984-01-04
+0l5TpsCL1ObiTEsHeWA0by,Faithfully (2023 Remaster),['Journey'],66,Frontiers (2023 Remaster),0.419,0.603,11,-5.63,1,0.0284,0.215,0.0,0.0997,0.232,129.538,audio_features,266946,4,1983-02-01
+00qOE7OjRl0BpYiCiweZB2,Juke Box Hero,['Foreigner'],66,4 (Expanded),0.357,0.653,9,-5.554,1,0.0654,0.0828,0.0,0.0844,0.522,176.647,audio_features,259799,4,1981
+6KTv0Z8BmVqM7DPxbGzpVC,Rock And Roll All Nite,['KISS'],72,Dressed To Kill,0.654,0.929,1,-5.906,1,0.0998,0.0474,0.0,0.0538,0.902,144.769,audio_features,168840,4,1975-03-19
+3439OLNIeD3y68kVuoZUO5,"Girls, Girls, Girls",['Mötley Crüe'],68,"Girls, Girls, Girls (Deluxe Version)",0.599,0.922,7,-4.887,1,0.0739,0.025,5.82e-05,0.356,0.514,140.098,audio_features,270533,4,1987-05-15
+6dGnYIeXmHdcikdzNNDMm2,Here Comes The Sun - Remastered 2009,['The Beatles'],82,Abbey Road (Remastered),0.557,0.54,9,-10.484,1,0.0347,0.0339,0.00248,0.179,0.394,129.177,audio_features,185733,4,1969-09-26
+1GqlvSEtMx5xbGptxOTTyk,Peace of Mind,['Boston'],64,Boston,0.419,0.677,4,-6.183,1,0.0343,0.00101,9.99e-05,0.211,0.684,127.678,audio_features,303586,4,1976
+0GONea6G2XdnHWjNZd6zt3,Summer Of '69,['Bryan Adams'],80,Reckless (30th Anniversary / Deluxe Edition),0.509,0.834,2,-6.205,1,0.0386,0.0183,0.0,0.0732,0.774,139.13,audio_features,216053,4,1984-11-05
+0Puj4YlTm6xNzDDADXHMI9,Sabotage,['Beastie Boys'],71,Ill Communication,0.324,0.938,6,-7.332,0,0.102,0.032,0.0321,0.0961,0.543,168.131,audio_features,178440,4,1994-05-23
+5OQsiBsky2k2kDKy2bX2eT,Learn to Fly,['Foo Fighters'],73,There Is Nothing Left To Lose,0.465,0.919,4,-4.025,1,0.0408,1.83e-05,2.07e-05,0.262,0.537,135.997,audio_features,235293,4,1999-11-02
+38zsOOcu31XbbYj9BIPUF1,Your Song,['Elton John'],79,Elton John,0.552,0.315,3,-11.028,1,0.0299,0.828,5.52e-06,0.101,0.324,128.187,audio_features,241786,4,1970-04-10
+0PsbWiVtix5FoTZ1s00mEl,Come Sail Away,['Styx'],61,The Grand Illusion,0.324,0.335,0,-15.595,1,0.0355,0.099,1.08e-06,0.0995,0.141,119.513,audio_features,367000,4,1977-01-01
+5WwqdeavrQrbeAMDxGawse,Can't Fight This Feeling,['REO Speedwagon'],71,Wheels Are Turnin',0.408,0.48,9,-11.017,1,0.0266,0.155,1.82e-05,0.0877,0.19,156.344,audio_features,294773,4,1984-11-05
+2nLtzopw4rPReszdYBJU6h,Numb,['Linkin Park'],87,Meteora,0.488,0.87,6,-4.185,0,0.0421,0.00353,0.0,0.484,0.211,110.072,audio_features,187520,4,2003-09-16
+2PzU4IB8Dr6mxV3lHuaG34,(I Can't Get No) Satisfaction - Mono Version,['The Rolling Stones'],75,Out Of Our Heads,0.723,0.863,2,-7.89,1,0.0338,0.0383,0.0317,0.128,0.931,136.302,audio_features,222813,4,1965-07-30
+0wJoRiX5K5BxlqZTolB2LD,Purple Haze,['Jimi Hendrix'],66,Are You Experienced,0.533,0.905,2,-5.27,1,0.0754,0.00876,0.578,0.0698,0.486,108.9,audio_features,170813,4,1967-05-12
+2vlFd6wPsR3xvWPCOE0dQt,Fear of the Dark (2015 Remaster),['Iron Maiden'],54,Fear of the Dark (2015 Remaster),0.308,0.866,2,-5.671,0,0.0593,0.000738,0.00146,0.232,0.228,109.823,audio_features,438120,4,1992-05-11
+48UPSzbZjgc449aqz8bxox,Californication,['Red Hot Chili Peppers'],82,Californication (Deluxe Edition),0.592,0.767,9,-2.788,0,0.027,0.0021,0.00165,0.127,0.328,96.483,audio_features,329733,4,1999-06-08
+5CQ30WqJwcep0pYcV4AMNc,Stairway to Heaven - Remaster,['Led Zeppelin'],76,Led Zeppelin IV (Deluxe Edition),0.338,0.34,9,-12.049,0,0.0339,0.58,0.0032,0.116,0.197,82.433,audio_features,482830,4,1971-11-08
+3IOQZRcEkplCXg6LofKqE9,Iron Man - 2012 - Remaster,['Black Sabbath'],64,Paranoid (Remaster),0.336,0.792,9,-10.875,1,0.084,0.00351,0.00175,0.0437,0.427,155.587,audio_features,355303,4,1970-09-18
+6mFkJmJqdDVQ1REhVfGgd1,Wish You Were Here,['Pink Floyd'],73,Wish You Were Here,0.481,0.262,7,-15.73,1,0.0414,0.735,0.0114,0.832,0.375,122.861,audio_features,334743,4,1975-09-12
+5anCkDvJ17aznvK5TED5uo,Hail to the King,['Avenged Sevenfold'],75,Hail to the King,0.58,0.916,3,-4.358,0,0.0387,0.000297,0.0259,0.126,0.683,118.004,audio_features,305906,4,2013-08-23
+1L94M3KIu7QluZe63g64rv,Alive,['Pearl Jam'],72,Ten,0.284,0.875,11,-6.069,0,0.0422,0.00752,0.000461,0.402,0.595,75.009,audio_features,340907,4,1991-08-27
+6zeE5tKyr8Nu882DQhhSQI,Dust in the Wind,['Kansas'],79,Point Of Know Return (Expanded Edition),0.475,0.322,7,-10.687,1,0.0283,0.367,0.00056,0.11,0.387,93.503,audio_features,206266,4,1977
+3mwvKOyMmG77zZRunnxp9E,Buddy Holly,['Weezer'],75,Weezer,0.556,0.92,8,-4.606,1,0.0367,0.00271,0.00021,0.117,0.771,121.138,audio_features,159226,4,1994-05-10
+3ZZq9396zv8pcn5GYVhxUi,Down Under,['Men At Work'],78,Business As Usual,0.739,0.459,11,-14.42,0,0.0294,0.129,0.0194,0.0474,0.892,107.115,audio_features,222320,4,1981-11-09
+3Dfy8YIxq89i84t108TvMi,Love Bites - Remastered 2017,['Def Leppard'],62,Hysteria (Super Deluxe),0.59,0.743,0,-7.078,0,0.0347,0.067,0.00093,0.0847,0.412,129.79,audio_features,346960,4,1987-08-03
+70Z9t1qhytWtG4cCmmi7mU,I Wanna Rock,['Twisted Sister'],66,Stay Hungry,0.504,0.911,2,-2.97,1,0.0738,0.00512,0.0123,0.355,0.671,106.244,audio_features,179760,4,1984-05-10
+67eX1ovaHyVPUinMHeUtIM,Hurts So Good,['John Mellencamp'],69,American Fool,0.785,0.737,9,-5.306,1,0.0363,0.042,0.000107,0.108,0.971,125.447,audio_features,218960,4,1982
+3jYRpwbctfqB77uU7T7K3U,Caught Up In You,['38 Special'],62,Special Forces,0.425,0.681,1,-8.604,0,0.0316,0.0229,0.000219,0.0543,0.933,131.011,audio_features,279333,4,1982-01-01
+5z6xHjCZr7a7AIcy8sPBKy,Smooth Criminal,['Alien Ant Farm'],73,Anthology,0.653,0.964,9,-4.26,0,0.0578,0.00316,0.0051,0.144,0.872,126.928,audio_features,209266,4,2001-01-01
+0M955bMOoilikPXwKLYpoi,I Hate Everything About You,['Three Days Grace'],78,Three Days Grace,0.498,0.83,6,-5.157,0,0.0421,0.00461,0.0,0.139,0.453,89.342,audio_features,231480,4,2003-04-19
+4EEjMyQub6tgFVshlM9j1M,Margaritaville,['Jimmy Buffett'],65,"Changes In Latitudes, Changes In Attitudes",0.801,0.545,2,-13.637,1,0.0357,0.709,0.00176,0.104,0.862,124.941,audio_features,250933,4,1977-01-01
+4gphxUgq0JSFv2BCLhNDiE,Jailhouse Rock,['Elvis Presley'],64,Elvis' Golden Records,0.647,0.582,10,-9.538,0,0.0755,0.41,1.93e-06,0.0715,0.915,167.396,audio_features,146480,4,1958-03-21
+5m7on0zpnmeAXy72ANrmfU,Bad Girlfriend,['Theory of a Deadman'],64,Scars & Souvenirs (Special Edition),0.504,0.957,0,-2.657,1,0.0529,0.00298,0.0,0.187,0.676,135.013,audio_features,205626,4,2008-04-01
+2aIB1CdRRG7YLBu9hNw9nR,The Beautiful People,['Marilyn Manson'],72,Antichrist Superstar,0.621,0.834,10,-10.068,0,0.0557,0.000779,0.456,0.0611,0.937,143.973,audio_features,218826,4,1996
+6Nm8h73ycDG2saCnZV8poF,Dragula,['Rob Zombie'],78,Hellbilly Deluxe,0.59,0.963,0,-6.489,0,0.0676,8.75e-05,0.000105,0.0781,0.586,125.033,audio_features,222826,4,1998-01-01
+78lgmZwycJ3nzsdgmPPGNx,Immigrant Song - Remaster,['Led Zeppelin'],75,Led Zeppelin III (Remaster),0.564,0.932,11,-10.068,1,0.0554,0.013,0.169,0.349,0.619,112.937,audio_features,146250,4,1970
+64Ny7djQ6rNJspquof2KoX,Hound Dog,['Elvis Presley'],66,Elvis' Golden Records,0.494,0.756,0,-8.492,1,0.0499,0.733,0.00505,0.76,0.949,86.895,audio_features,136026,4,1958-03-21
+2ccUQnjjNWT0rsNnsBpsCA,Surrender,['Cheap Trick'],64,Heaven Tonight,0.524,0.955,0,-7.081,1,0.0411,0.00717,8.77e-06,0.659,0.869,133.849,audio_features,253733,4,1978-04
+1AEYT6VxrxXPMoQUxsY0E4,Headstrong,['Trapt'],70,Trapt,0.492,0.896,4,-5.819,0,0.117,0.000172,2.78e-06,0.189,0.534,184.981,audio_features,285569,4,2002-11-05
+2E7W1X4maFFcjHrVrFA7Vs,Bark at the Moon,['Ozzy Osbourne'],63,Bark At The Moon (Expanded Edition),0.303,0.961,9,-5.333,0,0.243,0.00253,6.2e-05,0.132,0.305,146.591,audio_features,257120,4,1983-12-10
+54b8qPFqYqIndfdxiLApea,Alone,['Heart'],73,Bad Animals,0.418,0.452,1,-13.099,1,0.0355,0.638,0.000252,0.0959,0.168,175.124,audio_features,218733,4,1987-06-06
+0wqOReZDnrefefEsrIGeR4,Hanging By A Moment,['Lifehouse'],67,No Name Face,0.541,0.864,1,-4.915,1,0.0357,0.00118,0.0,0.0896,0.435,124.557,audio_features,216066,4,2000
+0YPXkQthLWrhNGoKTbwCJ8,(I Just) Died In Your Arms,['Cutting Crew'],61,The Best Of Cutting Crew,0.632,0.727,11,-11.209,0,0.0438,0.0119,7.64e-05,0.0678,0.499,124.919,audio_features,278626,4,1993-01-01
+3Pu3IChaAoa5EjgUBv5F6x,Ballroom Blitz,['Sweet'],61,Desolation Boulevard,0.644,0.799,4,-10.856,0,0.0598,0.0821,0.00154,0.055,0.889,108.381,audio_features,246573,4,1974-11
+2QfiRTz5Yc8DdShCxG1tB2,Johnny B. Goode,['Chuck Berry'],76,Berry Is On Top,0.534,0.803,10,-9.129,1,0.0743,0.741,6.07e-05,0.307,0.969,167.983,audio_features,161560,4,1959-07-01
+6s0NHplywwr1IjnQpUpWJk,Bad To The Bone,['George Thorogood & The Destroyers'],67,BAD TO THE BONE,0.459,0.727,0,-11.777,1,0.0303,0.00614,0.0652,0.384,0.955,149.231,audio_features,292173,1,1982-01-01
+2olVm1lHicpveMAo4AUDRB,The Power Of Love,['Huey Lewis & The News'],73,Greatest Hits: Huey Lewis And The News,0.768,0.828,5,-5.109,1,0.0313,0.0964,2.85e-05,0.097,0.961,118.777,audio_features,234333,4,2006-01-01
+4EchqUKQ3qAQuRNKmeIpnf,The Kids Aren't Alright,['The Offspring'],81,Americana,0.523,0.943,1,-4.203,1,0.0337,0.00704,3.81e-05,0.0579,0.766,99.607,audio_features,180160,4,1998-11-16
+0IhUdJRoolbYeEMPL59XPm,Is This Love - 2018 Remaster,['Whitesnake'],55,Whitesnake (2018 Remaster),0.263,0.759,0,-7.288,1,0.0431,0.0555,0.0,0.231,0.429,179.904,audio_features,284496,4,1987-04-07
+4yugZvBYaoREkJKtbG08Qr,Take It Easy - 2013 Remaster,['Eagles'],76,Eagles (2013 Remaster),0.575,0.67,7,-10.39,1,0.0318,0.343,4.95e-06,0.129,0.74,139.191,audio_features,211577,4,1972-06-01
+1ZhrREyOOeFV6TxDOyiPwu,Take The Money And Run,['Steve Miller Band'],66,Fly Like An Eagle,0.565,0.645,0,-12.923,1,0.0484,0.0552,2.84e-06,0.151,0.836,99.3,audio_features,170173,4,1976-01-01
+2wvMC5EyaaYQwBfiwwY2xE,Life's Been Good,['Joe Walsh'],62,"But Seriously, Folks...",0.505,0.476,2,-12.897,1,0.0711,0.25,0.00915,0.113,0.542,99.31,audio_features,536226,4,1978-06-01
+4vO9dmzNRqDhFY3jD1a3P7,Mississippi Queen,['Mountain'],65,Climbing!,0.581,0.624,9,-8.346,1,0.0777,0.0987,0.0,0.0411,0.637,139.714,audio_features,151293,4,1970
+0ofHAoxe9vBkTCp2UQIavz,Dreams - 2004 Remaster,['Fleetwood Mac'],84,Rumours (Super Deluxe),0.828,0.492,0,-9.744,1,0.0276,0.0644,0.00428,0.128,0.789,120.151,audio_features,257800,4,1977-02-04
+6wpGqhRvJGNNXwWlPmkMyO,I Still Haven't Found What I'm Looking For,['U2'],76,The Joshua Tree (Super Deluxe),0.564,0.774,1,-9.424,1,0.0368,0.0135,0.00191,0.0861,0.657,100.894,audio_features,277476,4,1987-03-03
+5y788ya4NvwhBznoDIcXwK,The Sound of Silence - Acoustic Version,['Simon & Garfunkel'],77,"Wednesday Morning, 3 A.M.",0.525,0.216,6,-13.551,1,0.0301,0.837,0.0,0.107,0.328,106.761,audio_features,185413,4,1964-10-19
+62AuGbAkt8Ox2IrFFb8GKV,Sweet Caroline,['Neil Diamond'],76,Sweet Caroline,0.529,0.127,11,-16.066,1,0.0274,0.614,0.000133,0.237,0.579,63.05,audio_features,203573,4,1969-06-06
+5WDLRQ3VCdVrKw0njWe5E5,Careless Whisper,['George Michael'],76,Ladies & Gentlemen,0.575,0.643,2,-8.854,0,0.0331,0.136,1.65e-06,0.249,0.789,152.854,audio_features,300106,4,1998-11-09
+7Ar4G7Ci11gpt6sfH9Cgz5,Listen to the Music,['The Doobie Brothers'],76,Toulouse Street,0.645,0.598,1,-13.18,0,0.0334,0.221,3.53e-06,0.0721,0.913,105.929,audio_features,227266,4,1972
+34x6hEJgGAOQvmlMql5Ige,"Danger Zone - From ""Top Gun"" Original Soundtrack",['Kenny Loggins'],72,"Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",0.544,0.897,3,-6.056,0,0.0471,0.241,0.0,0.13,0.647,157.17,audio_features,215133,4,1997-03-25
+2MvIMgtWyK88OiPi0J8Dg3,Psychosocial,['Slipknot'],61,All Hope Is Gone,0.576,0.989,2,-1.909,1,0.112,0.00252,0.0032,0.0243,0.352,135.093,audio_features,283400,4,2008-08-22
+6liaHE9iHh23PLVvw7lK8V,Closing Time,['Semisonic'],66,Feeling Strangely Fine (20th Anniversary Edition),0.444,0.84,7,-7.024,1,0.032,0.084,2.07e-05,0.102,0.282,92.077,audio_features,273826,4,1998-03-24
+5UuikgHTxSRFRnC0zXx10i,Aqualung,['Jethro Tull'],57,Aqualung (Special Edition),0.477,0.479,7,-11.887,0,0.0483,0.0649,0.029,0.0906,0.662,122.531,audio_features,396186,4,1971-03-19
+6W21LNLz9Sw7sUSNWMSHRu,Freak On a Leash,['Korn'],78,Follow The Leader,0.353,0.898,2,-5.877,1,0.052,2.23e-05,0.105,0.39,0.525,103.299,audio_features,255733,4,1998-08-18
+25CMmGsl22APKhfuj4Tp7j,It's Been Awhile,['Staind'],69,Break the Cycle,0.509,0.774,6,-4.054,1,0.0338,0.00189,0.000549,0.143,0.0824,116.529,audio_features,264706,4,2001-08-20
+5eU8qMd0TpaLqTGDZJaLDs,Need You Tonight,['INXS'],64,Kick,0.801,0.723,10,-4.985,0,0.0689,0.0713,0.154,0.0675,0.883,109.03,audio_features,180517,4,1987
+4sscDOZCkbLSlDqcCgUJnX,Whip It,['DEVO'],61,Freedom of Choice,0.78,0.869,9,-7.255,1,0.0517,0.0744,0.004,0.0621,0.957,157.902,audio_features,161133,4,1980
+3EYOJ48Et32uATr9ZmLnAo,Roxanne,['The Police'],77,Outlandos D'Amour (Remastered 2003),0.618,0.748,0,-8.905,1,0.358,0.0384,4.1e-06,0.0473,0.663,134.114,audio_features,191946,4,1978-11-02
+7kNNylJ1kswWbHeRM6UDuE,Blinded By The Light,"[""Manfred Mann's Earth Band""]",60,The Roaring Silence,0.456,0.696,5,-10.0,1,0.0653,0.291,0.000207,0.0853,0.508,142.156,audio_features,428133,4,1976
+5uvosCdMlFdTXhoazkTI5R,Light My Fire,['The Doors'],67,The Doors,0.413,0.725,3,-5.787,0,0.0324,0.369,2.16e-05,0.0905,0.44,124.618,audio_features,429760,4,1967-01-04
+4YwbSZaYeYja8Umyt222Qf,You Can't Hurry Love - 2016 Remaster,['Phil Collins'],74,"Hello, I Must Be Going! (Deluxe Edition)",0.62,0.936,7,-4.593,1,0.0308,0.0261,0.0,0.0679,0.763,97.527,audio_features,175746,4,1982-11-05
+0u6JFVn0KHHlidZxNL9gVE,La Grange (2005 Remaster),['ZZ Top'],78,Tres Hombres (Expanded 2006 Remaster),0.509,0.641,4,-9.936,0,0.264,0.00249,0.0304,0.196,0.612,161.74,audio_features,230480,4,1973-07-26
+4u9f8hqstB7iITDJNzKhQx,My Generation - Stereo Version,['The Who'],61,My Generation (Stereo Version),0.412,0.782,2,-9.186,0,0.058,0.308,0.00822,0.0775,0.705,96.732,audio_features,198706,4,1965-12-03
+0oerlffJSzhRVvtDfLcp3N,Wanted Dead Or Alive,['Bon Jovi'],72,Slippery When Wet,0.253,0.803,7,-3.977,1,0.0392,0.129,0.0146,0.309,0.258,150.036,audio_features,308666,4,1986-08-16
+73TxYZd0lBCVRrHawrAglA,Sweet Emotion,['Aerosmith'],72,Toys In The Attic,0.379,0.76,9,-10.961,1,0.0378,0.00298,0.0296,0.104,0.491,99.436,audio_features,274088,4,1975-04-08
+4Q9WS9ARvL7rkokSbnhM96,Detroit Rock City,['KISS'],66,Double Platinum,0.546,0.9,5,-6.728,1,0.0691,0.0421,4.57e-05,0.292,0.447,90.591,audio_features,215933,4,1978-04-02
+39C5FuZ8C8M0QI8CrMsPkR,Foreplay / Long Time,['Boston'],58,Boston,0.435,0.657,5,-8.868,1,0.0545,0.00983,0.00748,0.0923,0.209,118.704,audio_features,467640,4,1976
+3KhF2YiNpJvGpfiCW45R6D,Runnin' with the Devil - 2015 Remaster,['Van Halen'],67,Van Halen (Remastered),0.472,0.9,8,-6.406,0,0.0582,0.148,0.000297,0.34,0.42,95.826,audio_features,214960,4,1978-02-10
+2SiXAy7TuUkycRVbbWDEpo,You Shook Me All Night Long,['AC/DC'],82,Back In Black,0.532,0.767,7,-5.509,1,0.0574,0.00287,0.000513,0.39,0.755,127.361,audio_features,210173,4,1980-07-25
+0vFOzaXqZHahrZp6enQwQb,Money,['Pink Floyd'],68,The Dark Side of the Moon,0.468,0.536,11,-10.422,0,0.144,0.024,0.00199,0.269,0.785,126.256,audio_features,382834,1,1973-03-01
+6QewNVIDKdSl8Y3ycuHIei,Even Flow,['Pearl Jam'],77,Ten,0.394,0.944,10,-6.506,0,0.0761,0.00178,4.54e-06,0.298,0.265,105.338,audio_features,292580,4,1991-08-27
+2Z81PDDYNMTxZKiU2XIuFx,Turn Me Loose,['Loverboy'],55,Loverboy,0.588,0.641,5,-12.205,1,0.0312,0.0841,0.000663,0.303,0.548,119.374,audio_features,337933,4,1980
+5XcZRgJv3zMhTqCyESjQrF,Poison,['Alice Cooper'],71,Trash,0.28,0.908,2,-5.509,0,0.109,0.0327,8.85e-06,0.18,0.26,118.698,audio_features,270080,4,1989-07-25
+2EqlS6tkEnglzr7tkKAAYD,Come Together - Remastered 2009,['The Beatles'],75,Abbey Road (Remastered),0.53,0.376,9,-11.913,0,0.04,0.0304,0.247,0.0926,0.188,164.775,audio_features,259946,4,1969-09-26
+1Ud6moTC0KyXMq1Oxfien0,Sympathy For The Devil - 50th Anniversary Edition,['The Rolling Stones'],71,Beggars Banquet (50th Anniversary Edition),0.703,0.668,9,-9.237,1,0.22,0.516,0.0,0.0588,0.561,116.039,audio_features,378146,4,1968-12-06
+254bXAqt3zP6P50BdQvEsq,Everywhere - 2017 Remaster,['Fleetwood Mac'],79,Tango In the Night (Deluxe Edition),0.73,0.487,4,-10.991,1,0.0303,0.258,0.01,0.0852,0.731,114.965,audio_features,226653,4,1987-04-13
+4gvea7UlDkAvsJBPZAd4oB,The Boys Of Summer,['Don Henley'],73,Building The Perfect Beast,0.516,0.549,6,-13.741,1,0.0373,0.501,0.00572,0.184,0.907,176.941,audio_features,288733,4,1984-11-19
+3yrSvpt2l1xhsV9Em88Pul,Brown Eyed Girl,['Van Morrison'],82,Blowin' Your Mind!,0.491,0.583,7,-10.964,1,0.0376,0.185,0.0,0.406,0.908,150.566,audio_features,183306,4,1967-09
+6FsQrRpBLgsrFeAeiQqytm,Bang a Gong (Get It On) - 2003 Remaster,['T. Rex'],61,Electric Warrior [Expanded & Remastered],0.729,0.818,2,-9.992,1,0.0732,0.157,0.284,0.195,0.906,125.814,audio_features,267000,4,1971-09-24
+7y4CK8bbzxpyKu73WOvgHJ,Ramblin' Man,['Allman Brothers Band'],61,Brothers And Sisters (Super Deluxe),0.305,0.824,1,-8.33,1,0.0354,0.51,0.00292,0.272,0.921,179.404,audio_features,288160,4,2013-06-25
+4ReyTz0y3TGkX48wO3Llot,Epic,['Faith No More'],63,The Real Thing,0.358,0.893,4,-7.486,0,0.12,0.0222,0.0524,0.126,0.262,174.238,audio_features,293653,4,1989
+5GorCbAP4aL0EJ16frG2hd,Boulevard of Broken Dreams,['Green Day'],70,Greatest Hits: God's Favorite Band,0.496,0.682,8,-4.095,1,0.0294,0.00552,2.94e-05,0.0589,0.474,167.06,audio_features,262333,4,2017-11-17
+1oTo3ijRbaDAtrjJrGAPSw,I Miss You,['blink-182'],75,blink-182,0.655,0.781,11,-6.547,1,0.034,0.00103,5.33e-06,0.0867,0.584,110.024,audio_features,227240,4,2003-01-01
+44NRdYQw7P0GWuiunRv3hr,I Stand Alone,['Godsmack'],68,Faceless,0.219,0.92,0,-4.479,1,0.0623,2.81e-05,0.0,0.102,0.376,166.188,audio_features,246040,4,2003-04-08
+63rva3TBizr6x1Yp5uwKfD,California Dreamin',['The Mamas & The Papas'],50,If You Can Believe Your Eyes And Ears,0.554,0.667,1,-10.226,0,0.0342,0.628,0.0,0.0486,0.597,112.749,audio_features,157960,4,1966-03
+6rovOdp3HgK1DeAMYDzoA7,Maggie May,['Rod Stewart'],68,Every Picture Tells A Story,0.603,0.574,2,-10.536,1,0.0371,0.56,0.114,0.0684,0.535,129.42,audio_features,350266,4,1971-05-18
+1kvq7ksGQWSyRysYYNd6lu,Home Sweet Home,['Mötley Crüe'],66,Theatre of Pain (Deluxe Version),0.397,0.776,5,-6.339,1,0.0381,0.0983,4.09e-06,0.189,0.127,76.301,audio_features,239666,4,1985-06-21
+3QxKpdTB8ZSFn8MGeCCpsQ,Crazy,['Aerosmith'],71,Get A Grip,0.348,0.848,6,-4.674,0,0.0396,0.0454,0.0,0.143,0.486,162.189,audio_features,316826,3,1993-01-01
+57bgtoPSgt236HzfBOd8kj,Thunderstruck,['AC/DC'],83,The Razors Edge,0.502,0.89,4,-5.175,1,0.0364,0.000147,0.0117,0.217,0.259,133.52,audio_features,292880,4,1990-09-24
+3LoDeIbiR12sAznmpNEmKA,Anarchy in the U.K.,['Sex Pistols'],49,"Never Mind The Bollocks, Here's The Sex Pistols",0.323,0.978,5,-3.841,1,0.118,0.0422,0.00019,0.201,0.168,134.222,audio_features,211973,4,1977-10-27
+51TG9W3y9qyO8BY5RXKgnZ,Symphony Of Destruction,['Megadeth'],64,Countdown To Extinction (Expanded Edition - Remastered),0.61,0.889,4,-5.452,0,0.0585,0.000794,0.0865,0.0657,0.506,139.903,audio_features,246733,4,1992-07-14
+4YMQXzscifAREG0a7KNGhB,Black Magic Woman - Single Version,['Santana'],70,Santana's Greatest Hits,0.489,0.349,2,-14.295,0,0.0323,0.676,0.0789,0.0866,0.622,124.348,audio_features,196466,4,1994-07-01
+263aNAQCeFSWipk896byo6,Friday I'm in Love,['The Cure'],69,Wish,0.526,0.762,0,-12.437,0,0.0342,0.000972,0.000116,0.338,0.505,136.203,audio_features,214400,4,1992-04-21
+7BY005dacJkbO6EPiOh2wb,House Of The Rising Sun,['The Animals'],69,The Animals,0.295,0.584,9,-6.696,0,0.0345,0.000385,0.218,0.0996,0.228,117.2,audio_features,271280,3,1964-01-01
+2Wb9ejnmy27DUTUe9YF5Ew,All Night Long (All Night) - Single Version,['Lionel Richie'],55,The Definitive Collection,0.739,0.576,1,-12.024,1,0.0471,0.123,0.00204,0.0482,0.78,108.809,audio_features,260426,4,2003
+22CIOfLZB9z8He7WgHYAgH,Two Tickets to Paradise (2022 Remaster),['Eddie Money'],58,Eddie Money (2022 Remaster),0.603,0.627,2,-16.011,1,0.0299,0.113,0.000103,0.159,0.701,129.617,audio_features,240419,4,1977-12-01
+0K6yUnIKNsFtfIpTgGtcHm,Limelight,['Rush'],62,Moving Pictures (2011 Remaster),0.581,0.854,1,-8.485,0,0.0428,0.00197,0.0013,0.111,0.788,131.18,audio_features,259839,4,1981-02-12
+0GTK6TesV108Jj5D3MHsYb,Owner of a Lonely Heart,['Yes'],68,90125 (Deluxe Version),0.744,0.798,7,-5.981,1,0.0364,0.176,0.0037,0.26,0.898,125.059,audio_features,268506,4,1983-06-01
+7x8dCjCr0x6x2lXKujYD34,The Pretender,['Foo Fighters'],76,"Echoes, Silence, Patience & Grace",0.433,0.959,9,-4.04,1,0.0431,0.000917,0.0,0.028,0.365,172.984,audio_features,269373,4,2007-09-25
+3YuaBvuZqcwN3CEAyyoaei,Like a Stone,['Audioslave'],78,Audioslave,0.614,0.568,7,-5.477,0,0.0276,0.00797,0.0,0.0997,0.516,107.849,audio_features,293960,4,2002-11-17
+5DnT9a5IM3eMjKgXTWVJvi,Have You Ever Seen The Rain,['Creedence Clearwater Revival'],63,Pendulum,0.743,0.47,0,-13.154,1,0.029,0.0936,3.15e-05,0.186,0.89,116.122,audio_features,160333,4,1970-12-07
+2KVwlelhxKUy8LVV6JypH3,Push,['Matchbox Twenty'],71,Yourself or Someone Like You,0.42,0.672,6,-7.902,1,0.027,0.0067,0.0,0.108,0.476,168.019,audio_features,238666,4,1996-10-01
+2Cdvbe2G4hZsnhNMKyGrie,I Love Rock 'N Roll,['Joan Jett & the Blackhearts'],77,I Love Rock 'N' Roll (Expanded Edition),0.535,0.716,4,-5.025,1,0.0431,0.326,0.0,0.659,0.901,94.379,audio_features,175173,4,1981-11-18
+2DnJjbjNTV9Nd5NOa1KGba,You're So Vain,['Carly Simon'],76,No Secrets,0.66,0.68,0,-8.18,1,0.0313,0.153,6.7e-06,0.0784,0.671,106.187,audio_features,258411,4,1972
+3gmEzilP9BzF45wIMvA16l,I Miss the Misery,['Halestorm'],62,The Strange Case of... (Deluxe),0.469,0.969,0,-2.219,1,0.0589,0.009,1.11e-05,0.346,0.476,164.042,audio_features,183506,4,2012-04-09
+71fSn6OIF7HnCbgCzOBqpj,Runnin' Wild,['Airbourne'],65,Runnin' Wild (Special Edition),0.47,0.947,10,-4.122,1,0.0929,0.000141,0.29,0.127,0.394,162.052,audio_features,222240,4,2007
+3Cx4yrFaX8CeHwBMReOWXI,We Didn't Start the Fire,['Billy Joel'],74,Storm Front,0.712,0.967,7,-5.206,1,0.047,0.0771,0.0,0.356,0.895,145.024,audio_features,287733,4,1989-10-17
+3e0FzZjTXOUtiJGSClOBrI,Fly Like An Eagle,['Steve Miller Band'],62,Fly Like An Eagle,0.561,0.754,9,-12.769,0,0.112,0.61,0.0194,0.328,0.642,100.08,audio_features,282693,4,1976-01-01
+2kDH08boXJyhKMl5hnZbrE,Love of a Lifetime (2024 Remaster),['Firehouse'],58,Firehouse (2024 Remaster),0.459,0.622,1,-6.174,1,0.0293,0.000361,0.00201,0.0921,0.113,123.185,audio_features,285937,4,1990-08-20
+0tKjVEJlX3IZ5L1rEJc5hh,When I See You Smile,['Bad English'],60,Bad English,0.495,0.609,7,-9.902,1,0.0339,0.42,0.0,0.187,0.33,135.671,audio_features,257440,4,1989-06-15
+2RaA6kIcvomt77qlIgGhCT,Breaking the Law,['Judas Priest'],67,British Steel,0.362,0.961,2,-5.664,1,0.0857,0.024,9.35e-06,0.159,0.491,164.019,audio_features,153840,4,1980
+5O4erNlJ74PIF6kGol1ZrC,Could You Be Loved,['Bob Marley & The Wailers'],79,Uprising,0.916,0.72,0,-8.548,1,0.1,0.36,0.00016,0.0958,0.761,103.314,audio_features,237000,4,1980-06-10
+70LcF31zb1H0PyJoS1Sx1r,Creep,['Radiohead'],86,Pablo Honey,0.515,0.43,7,-9.935,1,0.0372,0.0097,0.000133,0.129,0.104,91.844,audio_features,238640,4,1993-02-22
+1b7LMtXCXGc2EwOIplI35z,Stuck In The Middle With You,['Stealers Wheel'],60,Reservoir Dogs (Original Motion Picture Soundtrack),0.795,0.564,7,-10.482,1,0.0392,0.0934,0.000531,0.0631,0.961,124.166,audio_features,203893,4,2009-01-01
+57iDDD9N9tTWe75x6qhStw,Bitter Sweet Symphony - Remastered 2016,['The Verve'],79,Urban Hymns (Remastered 2016),0.356,0.917,9,-6.006,1,0.0479,0.0335,0.0,0.406,0.518,171.176,audio_features,357266,4,1997-09-29
+2F6FfZ4w8z3eJpSxPotVO5,Falling Away from Me,['Korn'],72,Issues,0.468,0.769,4,-7.036,1,0.041,0.00014,0.00124,0.271,0.17,104.102,audio_features,270920,4,1999-11-09
+7rSERmjAT38lC5QhJ8hnQc,I'm Shipping Up To Boston,['Dropkick Murphys'],67,The Warrior's Code,0.452,0.928,2,-3.133,1,0.079,0.000706,0.000637,0.226,0.6,129.188,audio_features,153600,4,2005-07-19
+0v1XpBHnsbkCn7iJ9Ucr1l,It's My Life,['Bon Jovi'],79,Crush,0.551,0.914,0,-4.063,0,0.0465,0.0263,1.35e-05,0.347,0.543,119.994,audio_features,224493,4,2000-01-01
+7C0rG4oWO7VeZcffyW1sK9,Mr. Roboto,['Styx'],56,Kilroy Was Here,0.663,0.482,1,-12.093,1,0.0479,0.186,0.0,0.0521,0.314,144.13,audio_features,328706,4,1983-01-01
+6xMHglHoafdDFGXS6qfwSH,Hot Blooded,['Foreigner'],63,Double Vision (Expanded),0.705,0.806,0,-4.83,1,0.0814,0.229,0.0,0.0676,0.763,117.945,audio_features,268693,4,1978
+11LmqTE2naFULdEP94AUBa,Heart-Shaped Box,['Nirvana'],79,In Utero (Deluxe Edition),0.256,0.641,1,-10.283,1,0.0552,0.199,0.0329,0.0853,0.382,203.006,audio_features,281160,4,1993-09-21
+71SvEDmsOwIWw1IozsZoMA,Any Way You Want It,['Journey'],71,Departure,0.529,0.932,7,-7.501,1,0.0488,0.00251,0.00109,0.136,0.571,138.158,audio_features,201693,4,1980
+0hCB0YR03f6AmQaHbwWDe8,Whole Lotta Love - 1990 Remaster,['Led Zeppelin'],72,Led Zeppelin II (1994 Remaster),0.412,0.902,9,-11.6,1,0.405,0.0484,0.131,0.405,0.422,89.74,audio_features,333893,4,1969-10-22
+54bm2e3tk8cliUz3VSdCPZ,Master of Puppets (Remastered),['Metallica'],70,Master of Puppets (Remastered Deluxe Box Set),0.539,0.828,4,-9.108,0,0.035,0.00067,0.421,0.154,0.562,105.25,audio_features,515386,4,1986-03-03
+54flyrjcdnQdco7300avMJ,We Will Rock You - Remastered 2011,['Queen'],69,News Of The World (Deluxe Remastered Version),0.693,0.497,2,-7.316,1,0.119,0.679,0.0,0.258,0.473,81.308,audio_features,122066,4,1977-10-28
+2TSd55BFGI75LVW00mm3c2,Magic - 2003 Remaster,['Pilot'],41,"A's, B's And Rarities",0.395,0.566,9,-7.379,0,0.0387,0.23,0.0,0.2,0.757,203.337,audio_features,186733,4,2004-12-06
+0GjEhVFGZW8afUYGChu3Rr,Dancing Queen,['ABBA'],82,Arrival,0.543,0.87,9,-6.514,1,0.0428,0.358,0.000939,0.792,0.754,100.804,audio_features,230400,4,1976
+56KqaFSGTb7ifpt16t5Y1N,Rock the Casbah - Remastered,['The Clash'],73,Combat Rock (Remastered),0.797,0.872,9,-6.727,0,0.0575,0.291,0.0,0.284,0.866,129.885,audio_features,222426,4,1982
+3MODES4TNtygekLl146Dxd,Ramble On - 1990 Remaster,['Led Zeppelin'],66,Led Zeppelin II (1994 Remaster),0.468,0.607,9,-11.367,1,0.0336,0.072,0.000852,0.225,0.886,98.429,audio_features,263333,4,1969-10-22
+6sby78fghipoXHQLeeZFFH,When Doves Cry,['Prince'],67,Purple Rain,0.729,0.989,9,-4.613,0,0.049,0.0102,4.43e-05,0.443,0.841,126.468,audio_features,354133,4,1984-06-25
+2dCmGcEOQrMQhMMS8Vj7Ca,Super Freak,['Rick James'],76,Street Songs (Deluxe Edition),0.838,0.794,9,-8.245,0,0.0531,0.22,0.0,0.0575,0.962,132.446,audio_features,205466,4,1981-04-07
+5mQYBoGU3BOAqiFq54b51i,"Playing with the Boys - From ""Top Gun"" Original Soundtrack",['Kenny Loggins'],50,Top Gun - Motion Picture Soundtrack (Special Expanded Edition),0.638,0.87,2,-7.93,1,0.0362,0.0885,8.96e-06,0.116,0.892,141.674,audio_features,239266,4,1999-01-01
+08QP0rwnQSbbpGRIuXfrAY,Talk Dirty To Me,['Poison'],59,Look What The Cat Dragged In - 20th Anniversary Edition,0.492,0.957,11,-3.67,1,0.0959,0.00853,0.000879,0.371,0.635,158.06,audio_features,223733,4,1986
+1090YWYmufPxxFEDAmU8Hn,Same Ol' Situation (S.O.S.),['Mötley Crüe'],59,Dr. Feelgood,0.495,0.986,2,-3.109,1,0.133,0.0312,2.07e-05,0.431,0.246,139.677,audio_features,252906,4,1989
+3YRCqOhFifThpSRFJ1VWFM,November Rain,"[""Guns N' Roses""]",78,Use Your Illusion I,0.294,0.64,11,-9.316,1,0.0291,0.016,0.22,0.112,0.226,79.79,audio_features,536066,4,1991-09-17
+3cXiUuiGpFmZ8OdAWKk8Ck,Lick It Up,['KISS'],61,Lick It Up,0.681,0.773,2,-6.051,1,0.058,0.181,1.84e-05,0.311,0.547,120.276,audio_features,236640,4,1983-09-18
+2d4e45fmUnguxh6yqC7gNT,Dirty Deeds Done Dirt Cheap,['AC/DC'],71,Dirty Deeds Done Dirt Cheap,0.668,0.906,11,-4.881,0,0.17,0.214,0.00245,0.135,0.507,135.653,audio_features,231933,4,1976-09-20
+6RJdYpFQwLyNfDc5FbjkgV,Stricken,['Disturbed'],71,Ten Thousand Fists,0.402,0.969,8,-2.825,1,0.181,9.14e-05,0.0325,0.225,0.262,173.847,audio_features,245226,4,2005-09-19
+4LJhJ6DQS7NwE7UKtvcM52,What's My Age Again?,['blink-182'],77,Enema Of The State,0.391,0.951,6,-7.419,1,0.0688,0.012,0.000446,0.0878,0.468,157.663,audio_features,148360,4,1999-06-01
+2TVxnKdb3tqe1nhQWwwZCO,Tiny Dancer,['Elton John'],75,Madman Across The Water,0.414,0.428,0,-11.097,1,0.0278,0.382,0.000243,0.148,0.282,145.075,audio_features,377093,4,1971-11-05
+0LAcM6I7ijW4VVW0aytl1t,One (Remastered),['Metallica'],68,...And Justice for All (Remastered Deluxe Box Set),0.438,0.687,7,-9.15,1,0.0619,0.000668,0.0801,0.42,0.426,103.01,audio_features,446145,3,1988-09-07
+3ZffCQKLFLUvYM59XKLbVm,Wake Me up When September Ends,['Green Day'],77,American Idiot,0.546,0.814,7,-5.146,1,0.0314,0.023,0.0,0.0972,0.146,104.98,audio_features,285653,4,2004-09-21
+1pBAsoHy7eN9aeVCTAiKua,Afternoon Delight,['Starland Vocal Band'],59,Starland Vocal Band,0.486,0.443,5,-11.728,1,0.0301,0.492,0.0,0.101,0.785,147.206,audio_features,193040,4,1976-07-01
+0HEmnAUT8PHznIAAmVXqFJ,Faith - Remastered,['George Michael'],76,Faith,0.887,0.48,11,-11.994,1,0.117,0.0094,3.58e-05,0.0662,0.607,95.846,audio_features,193200,4,1987-10-30
+1FkoVC85Ds3mFoK0fVqEqP,Self Esteem,['The Offspring'],76,Smash,0.488,0.862,0,-7.595,1,0.0476,0.0204,0.0,0.359,0.706,104.56,audio_features,257826,4,1994-04-08
+05tlUh0E6IFks9sCQguQKN,Rockstar - 2020 Remaster,['Nickelback'],72,All The Right Reasons (15th Anniversary Expanded Edition),0.621,0.913,0,-3.352,1,0.0385,0.0477,0.0,0.314,0.679,144.073,audio_features,255493,4,2005
+5LyFTf7KMD3CsRA7B5gzEm,Stone in Love (2022 Remaster),['Journey'],58,Escape (2022 Remaster),0.503,0.889,0,-8.447,1,0.0826,0.00476,0.000759,0.67,0.472,119.289,audio_features,265000,4,1981-07-17
+2rd9ETlulTbz6BYZcdvIE1,War Pigs / Luke's Wall - 2012 - Remaster,['Black Sabbath'],62,Paranoid (Remaster),0.332,0.623,9,-12.363,1,0.08,0.222,0.000895,0.278,0.413,183.097,audio_features,474359,4,1970-09-18
+4XvvR8F6qOcnzgChO1uTIO,Overkill,['Motörhead'],56,Overkill (Expanded Edition),0.27,0.886,11,-6.9,1,0.117,7.62e-06,0.0258,0.0899,0.19,119.283,audio_features,313520,4,1979-03-24
+0S3gpZzlT9Hb7CCSV2owX7,"Mama, I'm Coming Home",['Ozzy Osbourne'],65,No More Tears (Expanded Edition),0.282,0.656,8,-6.557,1,0.0302,0.0105,0.0,0.0892,0.242,139.352,audio_features,251866,4,1991-09-17
+5D2eCwqbHcqOnfHOCM6TnV,No More Mr. Nice Guy,['Alice Cooper'],58,Billion Dollar Babies (Deluxe Reissue),0.498,0.515,11,-11.985,0,0.0395,0.0936,0.0,0.1,0.616,127.765,audio_features,187893,4,1973
+5dpAN1mjFPL38kh9kWsCiw,Wasting My Time,['Default'],56,The Fallout (Limited Edition),0.449,0.776,2,-5.594,1,0.0322,0.00171,0.0,0.0698,0.198,148.11,audio_features,269306,4,2001
+5clz8BOBulxx7q2yHxqOCk,Children of the Grave - 2014 Remaster,['Black Sabbath'],56,Master of Reality (2014 Remaster),0.318,0.65,6,-13.928,1,0.0375,0.0802,0.132,0.0962,0.368,149.994,audio_features,317206,4,1971-07-21
+4JiEyzf0Md7KEFFGWDDdCr,Knockin' On Heaven's Door,"[""Guns N' Roses""]",77,Use Your Illusion II,0.496,0.739,6,-7.193,1,0.0416,0.0209,0.00451,0.106,0.377,132.411,audio_features,336000,4,1991-09-18
+6OSyCAmXT4Gkd3OQ2aPOaF,Silent Lucidity - Remastered 2003,['Queensrÿche'],58,Empire - 20th Anniversary Edition,0.461,0.627,7,-5.659,1,0.0274,0.0528,0.000276,0.12,0.0977,140.04,audio_features,347760,4,1990
+2F8Glc7r4mHHSCEegD4Ju1,Gypsy Road,['Cinderella'],57,Long Cold Winter,0.523,0.886,9,-9.153,1,0.0384,0.00569,0.00178,0.331,0.505,132.45,audio_features,235733,4,1988
+0hKF8N8aflF1uDzEEnPr2j,Life Is A Highway,['Tom Cochrane'],55,Mad Mad World,0.683,0.751,5,-10.184,1,0.0346,0.0681,8.36e-06,0.248,0.841,103.036,audio_features,266560,4,1992
+2HsjJJL4DhPCzMlnaGv7ap,Small Town,['John Mellencamp'],61,Scarecrow,0.659,0.919,11,-2.658,1,0.0333,0.155,0.0054,0.312,0.631,123.135,audio_features,221626,4,1985
+5izGeTxueiFX1UPFGohY9w,Addicted To Love,"['Robert Palmer', ""Eric 'ET' Thorngren""]",63,Riptide,0.702,0.578,2,-13.415,1,0.031,0.382,5.89e-06,0.0425,0.975,111.617,audio_features,363640,4,1985-01-01
+2oSpQ7QtIKTNFfA08Cy0ku,It's The End Of The World As We Know It (And I Feel Fine),['R.E.M.'],65,Document (R.E.M. No. 5),0.381,0.894,7,-8.638,1,0.037,0.0258,0.0,0.0251,0.797,205.528,audio_features,246933,4,1987-09-01
+6gXrEUzibufX9xYPk3HD5p,Life in the Fast Lane - 2013 Remaster,['Eagles'],68,Hotel California (2013 Remaster),0.667,0.755,9,-7.246,1,0.069,0.0966,6.94e-05,0.0523,0.883,109.535,audio_features,286219,4,1976-12-08
+6UBjSnyP1O5W5ndJoO9vUk,Night Moves,['Bob Seger'],70,Night Moves,0.705,0.743,1,-6.631,1,0.042,0.432,0.0133,0.103,0.374,118.552,audio_features,324422,4,1976-10-22
+5ZYvcJ04ccUw2Matbnmu0U,Baby Hold On (2022 Remaster),['Eddie Money'],53,Eddie Money (2022 Remaster),0.637,0.598,2,-13.664,1,0.0535,0.317,0.0,0.0622,0.806,120.253,audio_features,213633,4,1977-12-01
+6gQUbFwwdYXlKdmqRoWKJe,Dude (Looks Like A Lady),['Aerosmith'],66,Permanent Vacation,0.54,0.982,4,-2.962,0,0.0458,0.435,3.37e-05,0.0457,0.91,126.294,audio_features,265773,4,1987-01-01
+5u5F7qLDvZjBSktaDp4HxB,Moneytalks,['AC/DC'],65,The Razors Edge,0.649,0.903,7,-3.677,1,0.0318,0.000841,0.000351,0.122,0.412,121.841,audio_features,225946,4,1990-09-24
+6QDbGdbJ57Mtkflsg42WV5,Hot for Teacher - 2015 Remaster,['Van Halen'],64,1984 (Remastered),0.552,0.947,2,-4.671,1,0.15,0.000652,0.00025,0.0637,0.465,127.631,audio_features,282746,4,1984-01-04
+7xD7MvjAdZkx1YICschIuI,Calling Dr. Love,['KISS'],49,Rock And Roll Over,0.544,0.884,8,-8.166,1,0.144,0.663,7.26e-06,0.381,0.467,127.215,audio_features,224666,4,1976-11-11
+1Cznl5CD5aaEYMfJq1l9Hd,Looks That Kill,['Mötley Crüe'],60,Shout At The Devil,0.485,0.949,0,-5.79,1,0.0404,0.00327,0.00631,0.115,0.742,135.972,audio_features,247840,4,1983-09-26
+18URo35acNKRTHfEdjTcGn,Photograph,['Def Leppard'],66,Pyromania,0.602,0.877,4,-6.606,1,0.0514,0.000327,0.634,0.0551,0.617,123.679,audio_features,247962,4,1983-01-20
+0RVeadY2MbHz4Pe4MreLNw,Rocket,['Def Leppard'],54,Hysteria,0.521,0.916,11,-6.822,1,0.0467,0.000249,0.00116,0.948,0.398,81.998,audio_features,396823,4,1987-08-03
+215wUTQQUo2PElJFEFoB0d,Wheel in the Sky,['Journey'],62,Infinity,0.442,0.745,2,-8.623,0,0.0741,0.084,2.18e-05,0.136,0.368,105.184,audio_features,252240,4,1978
+36xEjbl8DtevPJgw6i9IuY,Feels like the First Time - 2008 Remaster,['Foreigner'],48,No End in Sight: The Very Best of Foreigner (Expanded),0.498,0.802,7,-4.537,1,0.0544,0.0136,1.44e-06,0.128,0.505,107.704,audio_features,232333,4,2015-06-02
+0X1sqQ652p1sceKM2nJlIJ,Runaway,['Bon Jovi'],72,Bon Jovi,0.475,0.899,9,-4.321,0,0.0637,0.00375,1.91e-05,0.14,0.603,152.445,audio_features,230666,4,1984-01-23
+7F02x6EKYIQV3VcTaTm7oN,Hey You,['Pink Floyd'],64,The Wall,0.587,0.302,0,-14.976,1,0.0293,0.223,0.00216,0.128,0.19,112.46,audio_features,278440,4,1979-11-30
+7gSQv1OHpkIoAdUiRLdmI6,I Won't Back Down,['Tom Petty'],73,Full Moon Fever,0.766,0.478,7,-13.487,1,0.0329,0.0513,2.49e-06,0.165,0.965,114.02,audio_features,178360,4,1989-01-01
+4o6BgsqLIBViaGVbx5rbRk,You Make My Dreams (Come True),['Daryl Hall & John Oates'],80,Voices,0.751,0.501,5,-12.151,1,0.0551,0.234,0.112,0.0467,0.902,167.057,audio_features,190626,4,1980
+5u5qlnyVaewWugJIjzilIc,Smokin',['Boston'],58,Boston,0.197,0.796,2,-7.335,1,0.0645,0.000541,0.417,0.187,0.522,175.02,audio_features,261385,4,1976
+1cPXOzyeZauSAsT1yy7aBp,Beth,['KISS'],55,Destroyer,0.387,0.238,0,-13.496,1,0.0339,0.878,0.000715,0.194,0.279,115.354,audio_features,165666,4,1976-03-15
+4hWUOIDHda9XOb1zDchftP,Too Much Time On My Hands,['Styx'],56,Paradise Theatre,0.799,0.404,11,-13.597,0,0.0461,0.11,0.0,0.387,0.893,131.012,audio_features,271266,4,1981-01-01
+15tHagkk8z306XkyOHqiip,"I'll Be There for You - Theme From ""Friends""",['The Rembrandts'],65,L.P.,0.32,0.917,9,-5.903,1,0.0771,0.0717,0.0,0.169,0.715,190.757,audio_features,188359,4,1995-05-02
+5RdhBLmB4DyFHLglRrfx63,I'll Be There,['The Jackson 5'],61,Third Album,0.51,0.515,5,-7.247,1,0.0253,0.593,1.24e-06,0.654,0.331,93.212,audio_features,237760,4,1970-09-08
+5FZxsHWIvUsmSK1IAvm2pp,Best of You,['Foo Fighters'],72,In Your Honor,0.366,0.94,1,-5.119,0,0.0696,0.000769,9.42e-05,0.188,0.369,130.198,audio_features,255626,4,2005-06-14
+0QnONzv3TvHAWk294h6DaQ,Last Kiss,['Pearl Jam'],70,Last Kiss,0.622,0.692,7,-6.97,1,0.0276,0.363,0.000158,0.193,0.774,112.053,audio_features,195466,4,1999
+0mHyWYXmmCB9iQyK18m3FQ,Hello,['Lionel Richie'],56,Can't Slow Down,0.487,0.246,9,-14.104,0,0.0376,0.414,0.0,0.0983,0.0562,61.084,audio_features,251106,4,1983-01-01
+0UOxp1BpnD8uPQMKU4wKjz,I Shot The Sheriff,['Eric Clapton'],60,461 Ocean Blvd. (Deluxe Edition),0.73,0.639,7,-11.025,0,0.0524,0.0853,0.00221,0.102,0.658,94.395,audio_features,263746,4,1974-07-01
+63T7DJ1AFDD6Bn8VzG6JE8,"Paint It, Black",['The Rolling Stones'],81,Aftermath,0.464,0.795,1,-9.267,1,0.0926,0.0493,0.00244,0.399,0.612,158.691,audio_features,202266,4,1966-04-15
+6FMIVQPZg9cmMY8hPxAacD,Let's Go Crazy,['Prince'],62,Purple Rain,0.308,0.93,11,-6.399,1,0.125,0.0192,0.00221,0.106,0.376,195.805,audio_features,279240,4,1984-06-25
+1gkn90ExKRNAOlhDs4RoW0,Working Man,['Rush'],55,Rush,0.202,0.835,9,-11.04,1,0.0599,0.00383,0.0388,0.126,0.661,156.883,audio_features,429973,4,1974-01-01
+37Vzad7uGm0I9zJIFXlT4b,Youth Gone Wild,['Skid Row'],65,Skid Row,0.535,0.718,7,-11.276,0,0.044,0.00203,0.000119,0.356,0.628,117.369,audio_features,198906,4,1989-01-24
+0QwZfbw26QeUoIy82Z2jYp,Good Times Bad Times - 1993 Remaster,['Led Zeppelin'],65,Led Zeppelin,0.476,0.717,9,-9.192,1,0.0949,0.0382,7.61e-05,0.0818,0.753,93.584,audio_features,166266,4,1969-01-12
+2LbkpJUH052AvFcNIgjHTO,Mony Mony - Downtown Mix / Remastered 2001,['Billy Idol'],64,Vital Idol,0.742,0.743,10,-6.293,0,0.0508,0.00935,0.0,0.22,0.485,135.012,audio_features,301800,4,1985
+1gzIbdFnGJ226LTl0Cn2SX,White Wedding - Pt. 1,['Billy Idol'],69,Billy Idol,0.673,0.814,9,-5.411,1,0.0367,0.0134,0.00293,0.343,0.728,147.193,audio_features,252200,4,1982-01-01
+1mB7dCUM7sPyNab6R43nlj,The Drug In Me Is You,['Falling In Reverse'],70,The Drug In Me Is You,0.548,0.855,3,-3.266,1,0.151,0.0149,0.0,0.127,0.644,145.133,audio_features,218786,4,2011-07-26
+1IT0WQk5J8NsaeII8ktdlZ,King For A Day,"['Pierce The Veil', 'Kellin Quinn']",75,Collide With The Sky,0.403,0.965,6,-2.238,1,0.0964,3.81e-05,0.000276,0.341,0.431,112.363,audio_features,236293,4,2012-07-17
+23DHUWJ7iEieNPMPKvjzBV,Ohio Is For Lovers,['Hawthorne Heights'],64,The Silence In Black And White (Re-Issue),0.566,0.835,8,-6.87,0,0.0742,0.0356,0.0,0.241,0.606,170.066,audio_features,244480,4,2004-06-08
+60F6ntlU0uSzgChmyQyVJP,Blue Collar Man (Long Nights),['Styx'],53,Pieces Of Eight,0.438,0.598,2,-11.264,0,0.0366,0.0112,0.0,0.057,0.777,124.238,audio_features,247373,4,1978-01-01
+0VQ0n5gMgJLNixG8BfWBT5,"Lovin', Touchin', Squeezin'",['Journey'],58,Evolution,0.403,0.644,2,-8.608,1,0.0439,0.0991,0.000179,0.231,0.714,211.27,audio_features,230533,3,1979
+0UCg6lnG2MXpuEpf8Pk1MV,Strutter,['KISS'],60,Kiss,0.511,0.913,1,-5.618,1,0.059,0.0247,0.0548,0.0943,0.828,131.34,audio_features,190866,4,1974-02-18
+58YL9Jo1T0wyijCOZWRmyL,It's So Easy,"[""Guns N' Roses""]",60,Appetite For Destruction,0.388,0.989,8,-6.181,1,0.162,0.0206,1.16e-05,0.126,0.199,150.77,audio_features,202693,4,1987-07-21
+5fMwvrqujbQjUxcNPcYrUF,Janie's Got A Gun,['Aerosmith'],59,Big Ones,0.633,0.823,5,-5.792,1,0.0287,0.0516,0.000496,0.188,0.444,115.107,audio_features,330533,4,1994-01-01
+3ZpWy5rBZv2aLQAldnmTsP,Whiskey In The Jar,['Metallica'],62,"Garage, Inc.",0.511,0.972,10,-3.751,1,0.0413,5.36e-06,0.00101,0.19,0.532,132.97,audio_features,304893,4,1998-11-24
+00gHtn1ZQDfstHmCCkhcI4,Children of the Night - 2017 Remaster,['Whitesnake'],23,Whitesnake (30th Anniversary Super Deluxe Edition),0.438,0.968,0,-5.392,1,0.127,0.00239,4.21e-05,0.315,0.163,145.696,audio_features,263360,4,2017-10-27
+7zVpUAOuXY7pHHSm21jFEq,Wild Side,['Mötley Crüe'],64,"Girls, Girls, Girls (Deluxe Version)",0.602,0.874,0,-5.613,1,0.037,0.0074,0.0011,0.303,0.456,115.094,audio_features,283693,4,1987-05-15
+0LoH6lFQLNscy3RyljAewK,Let's Get Rocked,['Def Leppard'],53,Adrenalize (Deluxe),0.564,0.888,5,-6.763,1,0.0325,0.0109,6.68e-05,0.177,0.526,91.989,audio_features,295957,4,1992-03-31
+69QHm3pustz01CJRwdo20z,Hells Bells,['AC/DC'],74,Back In Black,0.389,0.873,4,-4.768,0,0.0475,0.00532,0.0055,0.273,0.303,106.767,audio_features,312293,4,1980-07-25
+1HmzAZUvhQLhLo2z3ocpZI,Radio Ga Ga - Remastered 2011,['Queen'],60,The Works (Deluxe Remastered Version),0.744,0.502,5,-7.705,1,0.0359,0.179,0.000172,0.19,0.655,112.345,audio_features,348226,4,1984-02-27
+4e9hUiLsN4mx61ARosFi7p,The Spirit Of Radio,['Rush'],60,Permanent Waves,0.365,0.924,4,-7.066,1,0.0488,0.0144,0.000254,0.423,0.632,135.811,audio_features,296466,4,1980-01-01
+1Z6lKdYhwp8WYoBqGCKxlM,Unskinny Bop,['Poison'],59,Flesh & Blood,0.574,0.93,1,-2.949,1,0.0413,0.0657,7.78e-06,0.108,0.69,92.303,audio_features,228066,4,1990
+72hcFp4tYkd3dbNA9dZ3Pv,Bad Medicine,['Bon Jovi'],66,New Jersey (Deluxe Edition),0.555,0.973,9,-3.804,1,0.035,0.048,0.0,0.0853,0.805,118.642,audio_features,316706,4,1988-09-13
+78PKCefXwDLbl4FVO1Pjzh,Dreamer,['Ozzy Osbourne'],59,Down To Earth,0.493,0.636,1,-7.408,1,0.0256,0.0629,2.49e-06,0.0921,0.279,79.419,audio_features,284906,4,2001-10-16
+4dVbhS6OiYvFikshyaQaCN,My Hero,['Foo Fighters'],73,The Colour And The Shape,0.398,0.927,9,-4.212,1,0.0567,6.2e-05,0.000177,0.0575,0.311,77.106,audio_features,260026,4,1997-05-20
+4ClGNWLK9vZMBtO0CpnyOE,Land of Confusion,['Disturbed'],62,Ten Thousand Fists,0.553,0.991,8,-3.703,1,0.0925,4.44e-05,0.0729,0.179,0.324,114.919,audio_features,287066,4,2005-09-19
+6fybp4N6eW3bsFAvARxyVe,Ain't Talkin' 'Bout Love - 2015 Remaster,['Van Halen'],69,Van Halen (Remastered),0.518,0.938,8,-5.964,0,0.0416,0.021,0.000305,0.288,0.71,139.138,audio_features,227800,4,1978-02-10
+40h65HAR8COEoqkMwUUQHu,Peaceful Easy Feeling - 2013 Remaster,['Eagles'],67,Eagles (2013 Remaster),0.568,0.634,4,-12.336,1,0.0282,0.494,0.00281,0.252,0.866,142.686,audio_features,257962,4,1972-06-01
+1G391cbiT3v3Cywg8T7DM1,Scar Tissue,['Red Hot Chili Peppers'],83,Californication (Deluxe Edition),0.595,0.717,0,-4.803,1,0.0295,0.0779,0.00274,0.108,0.547,88.969,audio_features,215906,4,1999-06-08
+3agtg0x11wPvLIWkYR39nZ,Somewhere I Belong,['Linkin Park'],71,Meteora,0.451,0.951,1,-3.754,1,0.0645,0.000386,2.56e-06,0.261,0.441,162.041,audio_features,213933,4,2003-09-16
+5ugzDiilhy6ILKmKfhEzd7,The Hand That Feeds,['Nine Inch Nails'],61,With Teeth,0.587,0.99,0,-4.496,1,0.0783,0.0172,0.000668,0.104,0.486,127.992,audio_features,211680,4,2005-05-03
+2TjdnqlpwOjhijHCwHCP2d,The Great Gig in the Sky,['Pink Floyd'],69,The Dark Side of the Moon,0.274,0.217,5,-13.814,1,0.0345,0.767,0.896,0.0832,0.181,116.334,audio_features,283872,4,1973-03-01
+59WN2psjkt1tyaxjspN8fp,Killing In The Name,['Rage Against The Machine'],78,Rage Against The Machine - XX (20th Anniversary Special Edition),0.466,0.833,7,-4.215,1,0.304,0.0266,0.0,0.0327,0.661,88.785,audio_features,313573,4,1992
+2a1iMaoWQ5MnvLFBDv4qkf,High and Dry,['Radiohead'],75,The Bends,0.419,0.383,4,-11.782,1,0.0256,0.0724,0.0176,0.0896,0.35,87.568,audio_features,257480,4,1995-03-13
+05NYcsjJwOYq4jIiKPVj9p,Hard To Handle,['The Black Crowes'],67,Shake Your Money Maker,0.599,0.79,4,-3.58,1,0.043,0.00257,0.00181,0.312,0.961,103.783,audio_features,188066,4,1990-02-13
+4PkJ7c9y1CwpuVOiJODnCZ,Someday,['Nickelback'],70,The Long Road,0.455,0.858,11,-5.659,0,0.0391,0.000616,0.000247,0.226,0.597,163.118,audio_features,207466,4,2003-09-23
+6SpLc7EXZIPpy0sVko0aoU,Misery Business,['Paramore'],74,Riot!,0.517,0.906,1,-3.677,1,0.0735,0.00272,9.26e-06,0.113,0.731,172.977,audio_features,211520,4,2007-06-11
+6lSr3iZTC144PKhvbPFzMp,Blurry,['Puddle Of Mudd'],67,Come Clean,0.432,0.938,3,-4.507,0,0.0543,0.00805,0.0,0.138,0.522,157.447,audio_features,304000,4,2001-01-01
+2OMqSRS11ly56zg9u5za6c,Still Waiting,['Sum 41'],65,Does This Look Infected?,0.431,0.95,7,-4.918,1,0.26,0.00105,3.63e-05,0.272,0.562,191.941,audio_features,158733,4,2002-01-01
+5zA8vzDGqPl2AzZkEYQGKh,Uptown Girl,['Billy Joel'],80,An Innocent Man,0.701,0.944,4,-2.986,1,0.0455,0.0755,0.0,0.601,0.792,128.993,audio_features,197706,4,1983-08-08
+5Wj1rJnCLpMHdLaxsFtJLs,Bennie And The Jets - Remastered 2014,['Elton John'],71,Goodbye Yellow Brick Road (Remastered),0.665,0.673,0,-7.95,1,0.0493,0.259,7.62e-06,0.497,0.779,132.642,audio_features,322548,4,1973-10-05
+5Qe7NHxeLAn8KoLTNLSdwe,I Want To Hold Your Hand - Remastered 2009,['The Beatles'],70,The Beatles 1962 - 1966 (Remastered),0.496,0.703,7,-6.905,1,0.0377,0.525,2.12e-06,0.305,0.936,130.915,audio_features,146720,4,1973-04-01
+7FwBtcecmlpc1sLySPXeGE,Dancing In the Dark,['Bruce Springsteen'],82,Born In The U.S.A.,0.527,0.942,1,-5.64,0,0.0366,0.0115,0.0,0.188,0.495,148.723,audio_features,241306,4,1984-06-04
+6GaFUMG9opnMytdc0lwnQw,If You Needed Somebody,['Bad Company'],46,Holy Water,0.496,0.514,7,-13.394,1,0.0274,0.0044,0.000106,0.0429,0.388,168.324,audio_features,261000,4,1990
+21c4eOwp47FhhiFQWBLMz6,One In A Million,['Trixter'],37,Trixter,0.59,0.71,8,-11.765,1,0.0358,0.0218,0.203,0.0724,0.783,119.93,audio_features,305706,4,1990-01-01
+0m5RdyFFcOKhut3sGkeWHG,Sometimes She Cries,['Warrant'],48,Dirty Rotten Filthy Stinking Rich,0.442,0.523,11,-11.716,1,0.0273,0.00254,6.18e-06,0.349,0.654,146.501,audio_features,283933,4,1989
+4alHo6RGd0D3OUbTPExTHN,Just What I Needed,['The Cars'],71,The Cars,0.62,0.579,4,-9.307,1,0.0473,0.0152,6.4e-05,0.0858,0.691,127.215,audio_features,225626,4,1978-06-06
+26fZwf1ImE4aUJ4XaqOkUg,No One Like You,['Scorpions'],66,Blackout,0.505,0.631,9,-10.433,0,0.038,0.0203,2.21e-05,0.141,0.835,118.178,audio_features,237466,4,1982-04-10
+5qxChyzKLEyoPJ5qGrdurN,No Sleep Till Brooklyn,['Beastie Boys'],68,Licensed To Ill,0.712,0.691,8,-8.157,1,0.128,0.122,0.0,0.0538,0.742,97.022,audio_features,246933,4,1986-11-15
+3sHH7lklbfpcraDDvYnjo7,Bat Country,['Avenged Sevenfold'],68,City of Evil,0.541,0.968,0,-4.129,1,0.0396,0.000248,8.28e-06,0.423,0.505,125.04,audio_features,311813,4,2005-06-06
+6nJPHXRpKYv2yqtalEjKy5,Got the Life,['Korn'],71,Follow The Leader,0.498,0.905,11,-5.721,0,0.0521,1.85e-05,0.765,0.383,0.584,123.338,audio_features,225306,4,1998-08-18
+08onVqQ8YicJ98Ycm1qoLf,Urgent,['Foreigner'],62,4 (Expanded),0.855,0.803,4,-5.849,0,0.0316,0.342,0.00732,0.0841,0.962,114.867,audio_features,271200,4,1981
+2tAzcTFry1OhmNERFjUR93,Whore,['In This Moment'],63,Blood,0.603,0.884,11,-3.821,0,0.0475,0.0254,0.0,0.0813,0.544,90.0,audio_features,245533,4,2012-08-14
+7scGzRwZMeHzFNuEJgnzvh,I Won't Give In,['Asking Alexandria'],60,The Black,0.428,0.914,2,-3.017,1,0.0762,0.00623,0.0,0.309,0.495,74.988,audio_features,229600,4,2016
+5Gw8owErJLfkNxWCSwPQKJ,Alone In A Room,['Asking Alexandria'],64,Asking Alexandria,0.482,0.946,4,-3.23,0,0.0852,0.00251,0.0,0.0466,0.284,135.071,audio_features,245861,4,2017-12-15
+5k0KjsgX1ETIAQWVBRHzq3,Wash It All Away,['Five Finger Death Punch'],61,Got Your Six,0.488,0.984,4,-3.618,1,0.0715,2.28e-05,0.0,0.28,0.277,123.633,audio_features,225705,4,2015-09-04
+2SHTKB8YYlawTGIuJ2b2ok,About A Girl,['Nirvana'],78,Bleach,0.413,0.875,6,-7.48,0,0.031,5.13e-06,0.00058,0.209,0.575,131.951,audio_features,168428,4,1989-06-01
+5gys5nzVQIYhgHIfiOJYva,Take It On the Run,['REO Speedwagon'],65,Hi Infidelity (30th Anniversary Edition),0.371,0.758,7,-5.679,1,0.036,0.0958,0.0,0.116,0.452,77.81,audio_features,239680,4,1980
+4qjscZh4jfhkpcQG4ZQfi2,Animal,['Def Leppard'],64,Hysteria,0.583,0.921,11,-5.215,1,0.0468,0.00153,0.0178,0.188,0.613,119.526,audio_features,244560,4,1987-08-03
+4QySZtWymRGNgrwxZOODKF,Don't Look Back,['Boston'],54,Don't Look Back,0.359,0.717,2,-10.309,1,0.0405,0.015,0.00365,0.36,0.47,121.878,audio_features,360333,4,1978-08-02
+4VFNyv0nVew5C878WDsPvE,Shout at the Devil,['Mötley Crüe'],64,Shout At The Devil,0.5,0.946,5,-5.428,1,0.072,0.0221,4.21e-05,0.068,0.449,94.542,audio_features,194986,4,1983-09-26
+5nN1jGnCadYk1jYm6oV5zN,What About Love?,['Heart'],60,Heart,0.245,0.63,2,-7.065,0,0.038,0.29,0.0,0.323,0.3,160.652,audio_features,221670,4,1985-07-06
+7a04qMjE3uoE5m7suXQfOZ,Wild Thing,['X'],39,Wild Thing / Devil Doll,0.429,0.914,4,-8.816,1,0.0636,0.0608,0.00597,0.588,0.273,108.518,audio_features,211640,4,1982-12-31
+3m7V717IKZqZLW5qUIOxdD,Hey Jude - Remastered 2009,['The Beatles'],58,The Beatles 1967 - 1970 (Remastered),0.399,0.555,10,-10.156,1,0.0259,0.0275,1.33e-05,0.0928,0.663,145.164,audio_features,431333,4,1973-04-02
+3ZOEytgrvLwQaqXreDs2Jx,Can't Stop,['Red Hot Chili Peppers'],82,By the Way (Deluxe Edition),0.618,0.938,9,-3.442,1,0.0456,0.0179,0.0,0.167,0.875,91.455,audio_features,269000,4,2002-07-09
+0NWPxcsf5vdjdiFUI8NgkP,Hey Joe,['Jimi Hendrix'],65,Are You Experienced,0.346,0.768,9,-5.695,1,0.0377,0.00603,0.38,0.0244,0.532,169.492,audio_features,210160,4,1967-05-12
+2AxCeJ6PSsBYiTckM0HLY7,Voodoo Child (Slight Return),['Jimi Hendrix'],64,Electric Ladyland,0.214,0.91,8,-6.662,1,0.389,0.477,0.00833,0.0517,0.448,175.549,audio_features,313373,4,1968-10-25
+6cFZ4PLC19taNlpl9pbGMf,Somebody To Love - Remastered 2011,['Queen'],65,A Day At The Races (Deluxe Remastered Version),0.497,0.693,8,-7.024,1,0.0565,0.19,0.0,0.215,0.358,111.539,audio_features,296493,3,1976-12-10
+5EWPGh7jbTNO2wakv8LjUI,Free Bird,['Lynyrd Skynyrd'],75,Pronounced' Leh-'Nerd 'Skin-'Nerd,0.249,0.834,0,-8.21,1,0.0574,0.0742,9.69e-05,0.0924,0.337,118.222,audio_features,547106,4,1973-01-01
+29uKzagduhFDTWPCjqaGOg,Gimme All Your Lovin',['ZZ Top'],68,Eliminator,0.63,0.788,5,-6.7,1,0.0298,0.00313,0.0233,0.0883,0.629,120.058,audio_features,241080,4,1983-03-23
+5RgFlk1fcClZd0Y4SGYhqH,She's Always a Woman,['Billy Joel'],75,The Stranger (Legacy Edition),0.292,0.324,3,-11.996,1,0.0346,0.797,0.000473,0.12,0.384,176.631,audio_features,201373,3,1977
+0zK545STj6P7qbFSpCK9pp,No Matter What - Remastered 2010,['Badfinger'],55,No Dice (Remastered 2010 / Deluxe Edition),0.529,0.743,9,-5.523,1,0.0481,0.177,0.0,0.0759,0.78,116.817,audio_features,180546,4,1970-11-09
+72Z17vmmeQKAg8bptWvpVG,Space Oddity - 2015 Remaster,['David Bowie'],69,David Bowie (aka Space Oddity) [2015 Remaster],0.31,0.403,0,-13.664,1,0.0326,0.0726,9.27e-05,0.139,0.466,134.48,audio_features,318026,4,1969-11-04
+33iv3wnGMrrDugd7GBso1z,My Own Worst Enemy,['Lit'],74,A Place In The Sun,0.494,0.946,4,-2.757,1,0.0637,0.00129,0.0,0.398,0.741,103.408,audio_features,169026,4,1999-02-22
+375ntCG12wzCyfzclwYFwG,"Believe It or Not (Theme from ""Greatest American Hero"")",['Joey Scarbury'],51,America's Greatest Hero,0.521,0.743,2,-5.903,1,0.0338,0.249,0.0,0.096,0.451,117.129,audio_features,195293,4,1981
+0Ki7j8wxFOfBRvHWY6uOxW,Sunglasses at Night - Extended Version,['Corey Hart'],30,Sunglasses at Night (Extended Version),0.641,0.793,10,-6.249,0,0.0621,0.13,2.31e-05,0.119,0.75,127.743,audio_features,318816,4,1985-01-01
+1Jj6MF0xDOMA3Ut2Z368Bx,Time After Time,['Cyndi Lauper'],66,She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition),0.724,0.436,0,-9.321,1,0.0282,0.576,1.19e-06,0.0908,0.324,130.439,audio_features,243066,4,2014-03-28
+3B4q6KbHbGV51HO3GznBFF,What I Got,['Sublime'],74,Sublime,0.804,0.696,7,-7.47,1,0.0899,0.00877,0.000985,0.314,0.657,95.721,audio_features,170906,4,1996-07-30
+2lXHg7BtTNoP39AezyCSfL,Disarm - 2011 Remaster,['The Smashing Pumpkins'],51,Siamese Dream (2011 - Remaster),0.527,0.418,4,-10.205,0,0.0277,0.142,0.775,0.139,0.218,129.516,audio_features,196905,4,1993
+2PpNgmrS9mAyrkRAwn6YPq,Rainbow in the Dark,['Dio'],60,Holy Diver,0.512,0.947,9,-5.659,0,0.0401,0.000692,0.114,0.0283,0.612,117.461,audio_features,256933,4,1983
+43thLwzSasUUZEYjYPeJh3,Close My Eyes Forever,"['Lita Ford', 'Ozzy Osbourne']",57,Lita,0.476,0.331,5,-14.884,1,0.0305,0.31,2.82e-06,0.172,0.24,130.574,audio_features,283133,4,1988-02-01
+0IXpUl1fn2QZcBavfuq0H4,Living After Midnight,['Judas Priest'],60,British Steel,0.61,0.824,4,-6.046,1,0.0534,0.0136,1.75e-06,0.0606,0.819,134.992,audio_features,210133,4,1980
+48MQDFkvHlGnRQyUx6ZXVe,I Just Want to Make Love to You,['Foghat'],43,Foghat,0.374,0.598,2,-12.022,1,0.208,0.0912,0.0,0.2,0.607,125.789,audio_features,261173,4,1972
+1oht5GevPN9t1T3kG1m1GO,Fire and Rain - 2019 Remaster,['James Taylor'],69,Sweet Baby James (2019 Remaster),0.597,0.271,5,-17.293,1,0.0394,0.766,0.0119,0.0933,0.338,76.271,audio_features,203613,4,1970-02-01
+6aqm56xP40foYBBtAWWrnY,Running on Empty,['Jackson Browne'],60,Running on Empty / Nothing but Time (Digital 45),0.541,0.711,9,-13.492,1,0.0383,0.0635,0.0201,0.719,0.588,136.58,audio_features,291893,4,1978
+6l8EbYRtQMgKOyc1gcDHF9,Bridge Over Troubled Water,['Simon & Garfunkel'],67,Bridge Over Troubled Water,0.149,0.206,3,-13.888,1,0.0323,0.822,0.000649,0.115,0.264,79.764,audio_features,293120,4,1970-01-26
+4fiOTntQKr24p07FvQDHZE,Raining Blood,['Slayer'],66,Reign In Blood (Expanded),0.227,0.995,10,-4.361,0,0.173,0.000405,0.393,0.127,0.0363,87.499,audio_features,255186,4,1986-01-01
+5TWPfkeN07aERO0Yn2D2t2,Rhiannon,['Fleetwood Mac'],57,Greatest Hits,0.723,0.49,9,-14.745,0,0.0296,0.111,0.0946,0.0923,0.795,129.012,audio_features,252773,4,1988-11-21
+6NGi23FFKq9tH5NR1NcTw2,Let Her Cry,['Hootie & The Blowfish'],61,Cracked Rear View,0.352,0.698,7,-6.278,1,0.0303,0.0353,0.0,0.113,0.256,142.57,audio_features,318533,4,1994-07-01
+3IV4swNduIRunHREK80owz,Rollin' (Air Raid Vehicle),['Limp Bizkit'],77,Chocolate Starfish And The Hot Dog Flavored Water,0.603,0.933,1,-3.358,1,0.171,0.00591,0.0,0.206,0.709,96.311,audio_features,213760,4,2000-10-17
+6LbbHFEajG9e4m0G3L47c4,Pinball Wizard,['The Who'],62,Tommy,0.543,0.715,2,-8.89,1,0.0356,0.0192,0.0,0.256,0.468,124.011,audio_features,180943,4,1969-05-23
+2ouURa1AIXp3AvkS52Jry5,Every Morning,['Sugar Ray'],70,14:59,0.833,0.679,8,-4.496,1,0.0365,0.0834,0.00258,0.0769,0.975,109.917,audio_features,219866,4,1900-01-01
+5ZLzl6T8JwqMTMdoE0nCbU,Friend of the Devil,['Grateful Dead'],60,American Beauty,0.642,0.628,7,-12.849,1,0.0358,0.334,8.29e-06,0.614,0.893,103.317,audio_features,201866,4,1970-06-01
+6NvRxjfYkkT2SpirAlmsjH,No One Knows,['Queens of the Stone Age'],65,Songs For The Deaf,0.507,0.588,0,-4.881,1,0.0641,0.0359,0.000129,0.373,0.637,170.889,audio_features,278706,4,2002
+0RdUX4WE0fO30VnlUbDVL6,Still Loving You,['Scorpions'],70,Comeblack,0.282,0.605,6,-4.916,0,0.0294,0.0047,0.00144,0.103,0.0783,103.929,audio_features,403453,4,2011-11-07
+1soxeK1ZBX9SsSjK4j4ECa,Doctor Doctor - 2007 Remaster,['UFO'],57,Phenomenon (2007 Remaster),0.361,0.799,2,-6.962,0,0.0392,0.000173,9.13e-05,0.496,0.576,143.077,audio_features,252453,4,1974-01-01
+2f0P7iELCvAlV8j6Z3rGDE,Stranglehold,['Ted Nugent'],59,Ted Nugent,0.484,0.711,2,-7.784,1,0.0331,0.0183,0.173,0.0941,0.49,148.189,audio_features,503066,4,1975
+6E6uwOhAEHSzSvDewOBEvF,Don't Tell Me You Love Me,['Night Ranger'],51,Dawn Patrol,0.389,0.84,6,-10.015,0,0.0442,0.0393,0.00155,0.085,0.493,176.589,audio_features,262826,4,1982-11-01
+1XxUDJp9zsjd6tBSvE3la4,Heavy Metal,['Sammy Hagar'],53,Standing Hampton,0.276,0.639,2,-11.674,1,0.0471,0.0178,0.0,0.292,0.643,186.502,audio_features,230506,4,1982-01-06
+3o7TMr6RmIusYH7Kkg7ujR,Coming Undone,['Korn'],74,See You On the Other Side,0.687,0.677,2,-4.172,1,0.0508,0.000643,0.000137,0.0564,0.545,75.052,audio_features,199773,4,2005-12-06
+5yAu4njFSdM47dfsTkQPZ2,Runnin' Down A Dream,['Tom Petty'],67,The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016,0.471,0.956,9,-6.371,1,0.0402,0.000596,0.615,0.624,0.715,169.798,audio_features,261812,4,2019-03-01
+4nXkbcTj3nyww1cHkw5RAP,Long Train Runnin',['The Doobie Brothers'],70,The Captain and Me,0.575,0.912,7,-7.275,0,0.0393,0.0916,0.00211,0.0562,0.843,117.399,audio_features,207266,4,1973
+5e9TFTbltYBg2xThimr0rU,The Chain - 2004 Remaster,['Fleetwood Mac'],80,Rumours (Super Deluxe),0.545,0.67,9,-8.81,1,0.0496,0.009,0.000822,0.0451,0.481,151.553,audio_features,270213,4,1977-02-04
+0cKk8BKEi7zXbdrYdyqBP5,Behind Blue Eyes,['The Who'],66,Who's Next (Deluxe Edition),0.394,0.622,4,-8.258,0,0.0336,0.213,4.45e-05,0.0892,0.342,126.844,audio_features,221426,4,1971-08-14
+0rFWuqFgHAfuzE8uSB9TWR,Live And Let Die,"[""Guns N' Roses""]",69,Use Your Illusion I,0.266,0.778,11,-8.671,1,0.0624,0.0106,0.113,0.12,0.262,151.244,audio_features,182733,4,1991-09-17
+2EC9IJj7g0mN1Q5VrZkiYY,Rebel Rebel - 2016 Remaster,['David Bowie'],68,Diamond Dogs (2016 Remaster),0.635,0.686,9,-15.648,1,0.053,0.209,0.0176,0.282,0.464,125.988,audio_features,274746,4,1974-05-24
+61Q9oJNd9hJQFhSDh6Qlap,House Of The Rising Sun,['The Animals'],55,The Best Of The Animals,0.315,0.534,9,-7.552,0,0.031,0.000825,0.108,0.101,0.283,116.891,audio_features,269720,3,1966-02
+4cMHCRLPNoEbpnl2rz6GS9,Back on the Chain Gang - 2007 Remaster,['Pretenders'],60,Learning to Crawl (Expanded & Remastered),0.598,0.901,2,-6.081,1,0.0359,0.116,0.0401,0.178,0.814,153.24,audio_features,231120,4,1984
+38Ngied9rBORlAbLYNCl4k,Once in a Lifetime - 2005 Remaster,['Talking Heads'],66,Remain in Light (Deluxe Version),0.644,0.919,2,-6.289,1,0.0561,0.181,0.134,0.622,0.871,117.459,audio_features,259906,4,1980-10-08
+4Zau4QvgyxWiWQ5KQrwL43,Radar Love,['Golden Earring'],57,The Long Versions - Part One,0.504,0.719,1,-9.155,0,0.0431,0.00878,0.00149,0.075,0.177,102.144,audio_features,386706,4,2008-10-22
+3CkjLJYnnyOtGk4Jx4iYS4,Woman,['Wolfmother'],55,Wolfmother,0.219,0.952,2,-3.621,1,0.176,5.1e-05,0.0989,0.157,0.172,112.886,audio_features,176306,1,2006-01-01
+3lPr8ghNDBLc2uZovNyLs9,Supermassive Black Hole,['Muse'],77,Black Holes and Revelations,0.668,0.921,7,-3.727,1,0.0439,0.0492,0.00517,0.0877,0.782,120.0,audio_features,212439,4,2006-06-19
+0SlpFHdk4UHBDzCEoXzy14,Stop Crying Your Heart Out,['Oasis'],68,Heathen Chemistry,0.331,0.558,2,-5.506,1,0.031,0.0689,1.96e-06,0.124,0.0985,150.19,audio_features,303120,4,2002-07-01
+2avKuMN2QXkaG9vvHa2JLt,Take A Look Around,['Limp Bizkit'],73,Chocolate Starfish And The Hot Dog Flavored Water,0.425,0.852,11,-5.605,1,0.0461,0.0174,0.311,0.0935,0.499,101.97,audio_features,321040,4,2000-10-17
+1ZozJfi8u9cO2Ob8KwiwNT,Higher,['Creed'],76,Human Clay,0.459,0.83,2,-6.254,1,0.0364,5.15e-05,0.00014,0.206,0.431,155.827,audio_features,316733,4,1999-01-01
+5XMjXjwCkJVmk0AHm7z8IV,Jerk It Out,['Caesars'],67,Love For The Streets,0.58,0.981,8,-2.603,0,0.06,0.0171,1.07e-05,0.386,0.861,134.007,audio_features,195666,4,2002
+0UrWr7Jnu1heq1o99ZwUd0,Youth of the Nation,['P.O.D.'],69,Satellite (U.S. Version),0.563,0.86,8,-7.533,1,0.0621,0.00834,0.0106,0.39,0.517,97.867,audio_features,256240,4,2001-09-11
+6urCAbunOQI4bLhmGpX7iS,Don't Speak,['No Doubt'],77,Tragic Kingdom,0.52,0.709,5,-7.125,0,0.0352,0.247,1.78e-05,0.18,0.536,76.039,audio_features,263560,4,1995-10-10
+02ZdZqhpfrPnxwyakXgxB8,Lump,['The Presidents Of The United States Of America'],69,The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition,0.507,0.882,6,-3.917,1,0.0337,0.0053,0.0,0.177,0.907,142.398,audio_features,134200,4,1995-01-01
+37EJtTS7jT5WUyXGZzrwnI,Santa Monica,['Everclear'],67,Sparkle And Fade,0.491,0.942,7,-5.333,1,0.109,0.156,0.0,0.367,0.398,100.441,audio_features,191506,4,1995-05-11
+3PzsbWSQdLCKDLxn7YZfkM,I'm On Fire,['Bruce Springsteen'],79,Born In The U.S.A.,0.62,0.446,1,-14.451,0,0.0347,0.589,0.0299,0.0727,0.868,88.591,audio_features,155880,4,1984-06-04
+0nIDF0qdk5iAIla7rZxxys,I Ran (So Far Away) - Single Edit,['A Flock Of Seagulls'],60,A Flock Of Seagulls (Deluxe),0.51,0.771,2,-6.666,1,0.0341,0.000205,0.831,0.135,0.644,145.522,audio_features,221798,4,2023-02-17
+2gQaQUhDCNGfBVXTvxAmXQ,Shout,['Tears For Fears'],71,Songs From The Big Chair,0.511,0.942,0,-10.407,1,0.0429,0.174,1.87e-05,0.139,0.498,97.909,audio_features,393666,4,1985-02-25
+2K22nUTdyr48JDwI5t906t,Relax,['Frankie Goes To Hollywood'],69,Welcome To The Pleasuredome,0.676,0.693,11,-13.396,0,0.0394,0.327,1.08e-05,0.0462,0.688,114.934,audio_features,236800,4,1984-10-20
+5jZ1Z2GFTf2gwmFc3qiUxs,The Taste of Ink,['The Used'],64,The Used,0.541,0.904,7,-3.001,1,0.0435,0.00143,0.0,0.193,0.541,98.122,audio_features,208693,4,2002-06-25
+0Ti2dlF2xLjXblvdU5fCxM,Miss Murder,['AFI'],68,DECEMBERUNDERGROUND,0.308,0.873,8,-4.542,1,0.0533,0.00022,0.000729,0.0974,0.686,143.519,audio_features,206586,4,2006-06-06
+5Hv1QAbRWrUSUHaT0CmnMS,Into the Night (feat. Chad Kroeger),"['Santana', 'Chad Kroeger']",54,Ultimate Santana,0.595,0.844,7,-4.678,1,0.0331,0.0137,0.0,0.234,0.603,127.981,audio_features,222440,4,2007-09-25
+0DKNNR9iDjwfCEpMiFXMJq,Until the Day I Die,['Story Of The Year'],62,Page Avenue,0.597,0.931,11,-4.591,0,0.0984,0.127,0.0,0.0504,0.534,92.003,audio_features,235200,4,2003-09-16
+429IbFR4yp2J81CeTwF5iY,Sweetness,['Jimmy Eat World'],66,Bleed American,0.487,0.898,5,-4.436,1,0.038,0.00305,0.0,0.26,0.597,135.331,audio_features,220026,4,2001-07-17
+00hVU6kDP67JHurfwG2dtq,Hero Of War,['Rise Against'],59,Appeal To Reason,0.636,0.417,4,-7.022,1,0.0292,0.543,0.0,0.0982,0.255,76.964,audio_features,253080,4,2008-01-01
+3D0bXrSv7O73vOaGOG8J9c,Sweet Dreams (Are Made Of This),['Marilyn Manson'],60,Smells Like Children,0.222,0.664,0,-5.242,0,0.0379,0.0039,0.65,0.239,0.101,186.044,audio_features,293293,4,1995
+5rX6C5QVvvZB7XckETNych,All Summer Long,['Kid Rock'],70,Rock n Roll Jesus,0.7,0.864,7,-3.629,1,0.0283,0.0212,0.0,0.0956,0.887,102.997,audio_features,297586,4,2007-10-09
+4cKGldbhGJniI8BrB3K6tb,Everything You Want,['Vertical Horizon'],60,Everything You Want,0.636,0.761,3,-6.389,0,0.0306,0.0517,0.0,0.0642,0.736,93.896,audio_features,257066,4,1999-06-14
+1HL3yEnYq8LEyFQ3QegA5V,Crash into Me,['Dave Matthews Band'],62,Crash,0.541,0.677,4,-10.764,1,0.0373,0.122,0.0191,0.0938,0.555,101.1,audio_features,316466,4,1996-04-30
+5HNCy40Ni5BZJFw1TKzRsC,Comfortably Numb,['Pink Floyd'],71,The Wall,0.472,0.366,11,-12.595,0,0.0286,0.15,0.312,0.0837,0.171,127.163,audio_features,382296,4,1979-11-30
+3qT4bUD1MaWpGrTwcvguhb,Black Dog - Remaster,['Led Zeppelin'],69,Led Zeppelin IV (Deluxe Edition),0.437,0.864,4,-7.842,0,0.0904,0.396,0.0314,0.242,0.749,81.394,audio_features,295386,4,1971-11-08
+4x3381mYJqptPqT6OKUfmu,Dare You To Move,['Switchfoot'],57,Learning To Breathe,0.426,0.881,4,-4.526,1,0.0404,0.00573,0.0693,0.389,0.259,139.986,audio_features,247893,4,2000-01-01
+1G8jae4jD8mwkXdodqHsBM,Name,['The Goo Goo Dolls'],65,A Boy Named Goo,0.464,0.701,9,-5.943,1,0.0341,0.0691,0.00182,0.0766,0.407,73.97,audio_features,270000,4,1995
+7HKez549fwJQDzx3zLjHKC,Start Me Up - Remastered 2009,['The Rolling Stones'],76,Tattoo You (2009 Re-Mastered),0.631,0.932,5,-4.142,1,0.0354,0.0429,0.137,0.0918,0.971,122.431,audio_features,213066,4,1981-08-24
+0oerlffJSzhRVvtDfLcp3N,Wanted Dead Or Alive,['Bon Jovi'],72,Slippery When Wet,0.253,0.803,7,-3.977,1,0.0392,0.129,0.0146,0.309,0.258,150.036,audio_features,308666,4,1986-08-16
+40GS2O35HIqhOVCFZZTfFF,Still of the Night - 2018 Remaster,['Whitesnake'],53,Whitesnake (2018 Remaster),0.334,0.854,4,-7.531,0,0.0494,0.00235,0.00114,0.158,0.284,100.175,audio_features,397768,4,1987-04-07
+0TaT50ZZxT4ytZxuqkE3A9,Why Can't This Be Love,['Van Halen'],65,5150,0.531,0.626,0,-13.371,1,0.0452,0.0606,0.0,0.0767,0.746,88.236,audio_features,227693,4,1986-03-24
+4lLxK3yBvwNoqTFjKC8RNg,First Date,['blink-182'],39,Take Off Your Pants And Jacket,0.575,0.932,0,-4.376,1,0.0457,0.000769,0.0,0.358,0.835,95.594,audio_features,169746,4,2001-01-01
+0SPBrxOUEMIKugXR4bFhxs,Love Gun,['KISS'],59,Love Gun,0.409,0.868,3,-6.236,0,0.0368,0.0266,0.0357,0.276,0.704,147.211,audio_features,198706,4,1977-06-30
+0dw3dXWx6dgp7Ri3HeDBUq,Down Boys,['Warrant'],46,Dirty Rotten Filthy Stinking Rich,0.606,0.85,8,-10.721,1,0.0389,0.00882,0.000215,0.0965,0.543,113.794,audio_features,243040,4,1989
+0lqfBvf1Gqmmt3l5Qeirlm,R.O.C.K. In The U.S.A. (A Salute To 60's Rock),['John Mellencamp'],53,Scarecrow,0.432,0.958,9,-4.009,1,0.0819,0.00943,2.79e-06,0.227,0.874,164.018,audio_features,174360,4,1985
+5E3P9e1hvjyIOlFyqNB5eD,Rich Girl,['Daryl Hall & John Oates'],60,The Essential Daryl Hall & John Oates,0.598,0.643,5,-6.303,1,0.134,0.5,0.0,0.0435,0.823,167.971,audio_features,144333,4,2005-04-25
+1xqVri47rxr9oRpUgJa8rf,I Remember You,['Skid Row'],67,Skid Row,0.482,0.528,0,-12.708,1,0.0267,0.00658,7.22e-06,0.14,0.489,88.156,audio_features,313693,4,1989-01-24
+5NoQvINZLBV1wMYPdNmReL,I Wanna Be Sedated,['Ramones'],69,Road to Ruin (40th Anniversary Deluxe Edition),0.56,0.965,11,-2.341,1,0.0409,0.121,6.23e-06,0.169,0.964,162.825,audio_features,149786,4,1978
+6GtX0jaNL8IjVQfrDBx81z,Bullet With Butterfly Wings - Remastered 2012,['The Smashing Pumpkins'],73,Mellon Collie And The Infinite Sadness (Deluxe Edition),0.404,0.72,10,-9.18,0,0.0623,5.59e-05,0.836,0.0466,0.475,121.864,audio_features,258466,4,1995
+608xszaAxVh4m7NcKJiAbF,One of These Nights - 2013 Remaster,['Eagles'],71,One of These Nights (2013 Remaster),0.655,0.606,7,-10.385,1,0.0285,0.0603,0.0789,0.0757,0.765,110.061,audio_features,291685,4,1975-06-10
+20OFwXhEXf12DzwXmaV7fj,Bad Moon Rising,['Creedence Clearwater Revival'],81,Green River (Expanded Edition),0.508,0.774,2,-5.973,1,0.0321,0.0586,4.87e-06,0.063,0.942,178.946,audio_features,141600,4,1969-08-03
+1lqMLr9Wj7SM2F9AikGcxN,Hurricane,['Bob Dylan'],64,Desire,0.509,0.827,0,-7.715,1,0.0782,0.0409,0.0,0.12,0.743,135.601,audio_features,512732,4,1976-01-16
+10V8XpuyMoEcSMfM79WDET,Living Dead Girl,['Rob Zombie'],71,Hellbilly Deluxe,0.518,0.948,6,-5.579,0,0.0676,0.00512,0.0996,0.228,0.548,103.025,audio_features,201400,4,1998-01-01
+7pu8AhGUxHZSCWTkQ2eb5M,Bad Reputation,['Joan Jett & the Blackhearts'],67,Bad Reputation (Expanded Edition),0.378,0.974,6,-4.055,1,0.194,0.00192,0.0139,0.0588,0.824,203.715,audio_features,169186,4,1981-01-23
+528CAH5pTLq86oZ52fHifA,The Flame,['Cheap Trick'],63,Lap Of Luxury,0.629,0.581,4,-11.856,1,0.027,0.513,2.06e-06,0.0755,0.359,97.074,audio_features,338800,4,1988-04-12
+46NtQJH1eok28bucLlHqQT,I Can't Hold Back,['Survivor'],51,Vital Signs,0.509,0.681,4,-10.659,1,0.0306,0.499,5.36e-05,0.1,0.33,143.645,audio_features,238800,4,1984-01-01
+0eifvmNPHWaSh4IKNR4Xva,To Be With You - 2021 Remastered,['Mr. Big'],65,Lean Into It (30th Anniversary Edition),0.688,0.284,4,-13.577,1,0.0574,0.359,0.0,0.127,0.482,83.433,audio_features,208080,4,1991
+4lbhQdbiTpNP7GowZG8KsM,Don't Treat Me Bad (2024 Remaster),['Firehouse'],52,Firehouse (2024 Remaster),0.606,0.89,8,-7.036,1,0.0328,0.000486,0.000292,0.148,0.612,111.175,audio_features,235125,4,1990-08-20
+2dEgwtRjYl6TJkIwjRwn6z,Heaven,['Warrant'],57,Dirty Rotten Filthy Stinking Rich,0.461,0.488,6,-11.143,1,0.0287,0.115,0.0,0.128,0.33,145.778,audio_features,236866,4,1989
+3mCeeoBvTTpg8Xy2Wuvirw,Bat Out of Hell,['Meat Loaf'],57,Bat Out Of Hell,0.204,0.837,5,-7.618,1,0.0676,0.281,0.00405,0.291,0.392,171.514,audio_features,590000,4,1977-10-21
+2GnVuaoKSkB6Xa07l1BBg8,N.I.B.,['Black Sabbath'],54,The Ultimate Collection,0.476,0.556,4,-10.586,0,0.0646,0.0838,1.59e-05,0.125,0.43,103.122,audio_features,364493,4,2017-02-03
+1f2V8U1BiWaC9aJWmpOARe,By the Way,['Red Hot Chili Peppers'],75,By the Way (Deluxe Edition),0.451,0.97,0,-4.938,1,0.107,0.0264,0.00355,0.102,0.198,122.444,audio_features,216933,4,2002-07-09
+1VMqkvlOqaH0HP0nsj1bx5,Coming of Age,['Damn Yankees'],44,Damn Yankees,0.563,0.866,7,-8.861,1,0.0499,0.154,0.0,0.579,0.582,125.884,audio_features,259839,4,1990
+55mJleti2WfWEFNFcBduhc,Schism,['TOOL'],68,Lateralus,0.567,0.714,9,-8.512,0,0.0302,0.0012,0.417,0.186,0.191,107.441,audio_features,403533,3,2001-05-15
+6ui6l3ZNvlrGQZArwo8195,God Save the Queen,['Sex Pistols'],49,"Never Mind The Bollocks, Here's The Sex Pistols",0.274,0.908,9,-5.419,1,0.0691,0.00103,0.00219,0.154,0.483,148.246,audio_features,200080,4,1977-10-27
+43v1rIzI5SvzVvXsvI8F9j,I'll Never Let You Go,['STEELHEART'],48,Steelheart,0.35,0.651,1,-9.829,1,0.042,0.0119,0.156,0.0874,0.31,143.959,audio_features,306560,4,1990-01-01
+1NCuYqMc8hKMb4cpNTcJbD,Another Day in Paradise - 2016 Remaster,['Phil Collins'],78,...But Seriously (Deluxe Edition),0.78,0.565,3,-7.32,0,0.0306,0.736,0.00269,0.063,0.365,101.967,audio_features,322133,4,1989-11-20
+4RS9PmtHQe7I0o5fEeweOY,Dance the Night Away - 2015 Remaster,['Van Halen'],61,Van Halen II (Remastered),0.548,0.843,8,-7.32,1,0.0597,0.0373,1.26e-06,0.0536,0.719,129.661,audio_features,188083,4,1979-03-23
+6mJQe0vTIojlxwyMwwy6YR,Think I'm In Love,['Eddie Money'],51,No Control,0.486,0.83,3,-10.815,1,0.037,0.0104,0.000475,0.0635,0.652,151.869,audio_features,188533,4,1983
+1rWqtf1rOYiPEb9puv2bYd,Rockin' Into The Night,['38 Special'],49,Rockin' Into The Night,0.659,0.505,0,-12.773,1,0.0302,0.053,0.0,0.0544,0.879,128.295,audio_features,241226,4,1979-01-01
+6zC0mpGYwbNTpk9SKwh08f,Wonderful Tonight,['Eric Clapton'],73,Slowhand 35th Anniversary (Super Deluxe),0.572,0.214,7,-15.625,1,0.0293,0.649,0.129,0.125,0.485,95.542,audio_features,225026,4,1977-11-01
+3K9QlS0VCtkzUvo0HY75VE,Love Stinks,['The J. Geils Band'],48,Love Stinks,0.65,0.449,0,-7.555,1,0.0281,0.00312,1.94e-05,0.548,0.699,89.641,audio_features,224560,4,1980
+1xKQbqQtQWrtQS47fUJBtl,Piece of My Heart,"['Big Brother & The Holding Company', 'Janis Joplin']",64,Cheap Thrills,0.443,0.727,4,-7.951,1,0.145,0.263,0.000141,0.169,0.566,160.82,audio_features,253333,4,1968-08-12
+7vidktgNZFQylTgH1GEnMs,Cold as Ice,['Foreigner'],69,Foreigner (Expanded),0.562,0.609,3,-7.063,0,0.0271,0.0264,0.0,0.17,0.512,130.753,audio_features,203133,4,1977-03-08
+2VN7uPrbryJ7nE2MXX3f9a,"Burning Heart - From ""Rocky IV"" Soundtrack",['Survivor'],65,Survivor Greatest Hits,0.652,0.609,9,-9.684,0,0.028,0.298,8.79e-06,0.0573,0.646,98.125,audio_features,230106,4,1993-01-01
+1ju7EsSGvRybSNEsRvc7qY,Simple Man,['Lynyrd Skynyrd'],72,Pronounced' Leh-'Nerd 'Skin-'Nerd,0.422,0.752,6,-8.682,1,0.0449,0.0366,0.000119,0.129,0.404,120.47,audio_features,356626,4,1973-01-01
+1Ryxsiacu8pUXIMCVnIQ8J,Still The Same,['Bob Seger'],65,Stranger In Town,0.709,0.767,0,-6.732,1,0.0283,0.405,0.000172,0.0592,0.557,115.64,audio_features,203546,4,1978-05-05
+4c4jJJoaiY21t2TyRZgdWS,Magic Carpet Ride,['Steppenwolf'],65,The Second,0.64,0.651,4,-14.981,0,0.0517,0.142,0.28,0.0341,0.801,111.676,audio_features,271573,4,1968-10-01
+44aTAUBF0g6sMkMNE8I5kd,Every Little Thing She Does Is Magic,['The Police'],73,Ghost In The Machine (Remastered 2003),0.558,0.768,2,-9.997,1,0.0343,0.121,0.0626,0.124,0.429,81.909,audio_features,260573,4,1981-10-02
+5ohfpKB5tt275f4Y4lQ9F7,Angel Of Death,['Slayer'],62,Reign In Blood (Expanded),0.326,0.995,1,-4.38,1,0.147,9.41e-05,0.386,0.145,0.092,105.459,audio_features,291773,4,1986-01-01
+6L89mwZXSOwYl76YXfX13s,Basket Case,['Green Day'],80,Dookie,0.442,0.943,3,-3.205,1,0.0602,0.00293,8.71e-06,0.091,0.781,85.064,audio_features,181533,4,1994-02-01
+7lRlq939cDG4SzWOF4VAnd,I'm Not Okay (I Promise),['My Chemical Romance'],74,Three Cheers for Sweet Revenge,0.21,0.94,9,-3.427,1,0.123,0.00602,0.0,0.269,0.255,179.722,audio_features,186480,4,2004-06-08
+65mxB9IWpmVo4qUjdGSxRB,Girls & Boys,['Good Charlotte'],59,The Young and The Hopeless,0.663,0.72,3,-5.497,1,0.0331,0.00212,0.0,0.358,0.608,135.342,audio_features,183493,4,2002-10-04
+2uLx3Gka9TGCz9Zgu7Uwav,Whiskey In The Jar,['Thin Lizzy'],55,Shades Of A Blue Orphanage (Deluxe),0.557,0.693,7,-11.044,1,0.0449,0.531,0.00141,0.196,0.749,127.531,audio_features,345186,4,1972
+6cr6UDpkjEaMQ80OjWqEBQ,Sultans of Swing,['Dire Straits'],64,Dire Straits,0.725,0.801,5,-10.059,1,0.0302,0.0722,0.0339,0.339,0.925,148.211,audio_features,348760,4,1978-10-07
+1J5XEPamp7iQaCU0aFuMnd,Long Cool Woman (In a Black Dress) - 1999 Remaster,['The Hollies'],75,Distant Light (Expanded Edition),0.757,0.868,9,-9.326,1,0.062,0.411,0.00221,0.355,0.815,138.918,audio_features,199200,4,1971-10-01
+1gcESexgftSuLuML57Y69q,All Right Now,['Free'],65,Fire And Water,0.787,0.472,2,-12.824,1,0.0832,0.221,0.000336,0.153,0.824,120.059,audio_features,330643,4,1970-06-26
+3G69vJMWsX6ZohTykad2AU,One,['U2'],72,Achtung Baby (Deluxe Edition),0.392,0.534,0,-8.793,1,0.0369,0.245,0.00104,0.155,0.325,181.305,audio_features,276186,4,1991-11-18
+2x5IXUFOcvvBUtEpnCBNlp,Alive And Kicking,['Simple Minds'],63,Once Upon A Time (Super Deluxe),0.572,0.913,0,-4.26,1,0.0362,0.0753,1.5e-05,0.128,0.561,103.265,audio_features,289453,4,1985
+1OxcIUqVmVYxT6427tbhDW,Fly Away,['Lenny Kravitz'],73,5,0.587,0.872,7,-5.066,1,0.0484,0.018,0.0,0.622,0.735,159.925,audio_features,221332,4,1998-05-12
+4RvWPyQ5RL0ao9LPZeSouE,Everybody Wants To Rule The World,['Tears For Fears'],85,Songs From The Big Chair (Super Deluxe Edition),0.645,0.795,7,-12.095,1,0.0527,0.347,0.00389,0.104,0.535,112.067,audio_features,251488,4,1985-02-25
+6Vjk8MNXpQpi0F4BefdTyq,Kashmir - Remaster,['Led Zeppelin'],66,Physical Graffiti (Deluxe Edition),0.483,0.615,2,-8.538,1,0.0497,0.452,0.000414,0.0512,0.594,80.576,audio_features,517125,3,1975-02-24
+3Xls4cNOwy01dtrNXb1inG,White Room,['Cream'],67,Wheels Of Fire,0.553,0.576,0,-13.458,1,0.0304,0.191,0.00664,0.0365,0.457,109.827,audio_features,298333,4,1968-07-01
+3RJof5CojqlbgZ5adHw50O,When I'm With You,['Sheriff'],47,Sheriff,0.248,0.324,9,-10.878,1,0.03,0.274,0.00946,0.113,0.122,135.786,audio_features,238040,4,1982-01-01
+0baguYeIsl8FtArOv1jV5o,Bulletproof,['Godsmack'],63,When Legends Rise,0.39,0.91,5,-3.268,0,0.133,0.000198,0.0,0.156,0.644,162.253,audio_features,177048,4,2018-04-27
+0snQkGI5qnAmohLE7jTsTn,Toxicity,['System Of A Down'],82,Toxicity,0.413,0.873,8,-4.151,1,0.0536,0.000264,0.00249,0.204,0.48,116.68,audio_features,218933,3,2001-09-04
+1MTQHCpraD4S8g5PAFKzoj,Behind Blue Eyes,['Limp Bizkit'],73,Results May Vary,0.595,0.489,7,-6.66,1,0.0271,0.497,0.0,0.119,0.0902,120.312,audio_features,269973,4,2003-01-01
+600p5yFQWKHxqEvejm6GfN,I Love It Loud - 2022 Remastered,['KISS'],54,Creatures Of The Night (40th Anniversary / Super Deluxe),0.356,0.918,4,-6.47,1,0.0674,0.00184,0.0,0.0771,0.182,170.81,audio_features,254613,4,1982
+4t1fWWJQs5V9YErfsrDslC,Cryin',['Aerosmith'],69,Get A Grip,0.452,0.813,9,-4.45,1,0.0319,8.31e-05,0.0381,0.274,0.539,105.757,audio_features,308560,3,1993-01-01
+28clONjZmul6FjfO6tZQDE,Metal Health (Bang Your Head),['Quiet Riot'],58,Metal Health,0.494,0.933,2,-5.977,1,0.0808,0.0434,0.00108,0.228,0.507,121.201,audio_features,316866,4,1983
+5Q916vqrwfON21qlJiXpSz,Alone Again,['Dokken'],57,Tooth and Nail,0.295,0.68,1,-6.126,0,0.0445,0.0197,2.5e-05,0.125,0.338,156.517,audio_features,260680,4,1984-09-14
+6w8dBm5KlXxWejYrbGS1EJ,I Wanna Be Somebody,['W.A.S.P.'],55,W.A.S.P.,0.285,0.825,1,-7.049,0,0.0466,0.000826,0.0,0.268,0.516,164.611,audio_features,223533,4,1984
+23l1kVpqMVREiwU1YAlcr4,I Guess That's Why They Call It The Blues,['Elton John'],69,Too Low For Zero,0.673,0.663,0,-7.29,1,0.0269,0.217,0.0174,0.177,0.67,120.634,audio_features,285333,3,1983-05-30
+1A2PWRltFrX8iB8IP3CUgo,St. Elmos Fire (Man in Motion),['John Parr'],61,St. Elmo's Fire - Music From The Original Motion Picture Soundtrack,0.612,0.6,9,-10.945,1,0.0327,0.15,3.04e-06,0.222,0.471,111.203,audio_features,251800,4,1985-01-01
+0KMGxYKeUzK9wc5DZCt3HT,If You Leave Me Now,['Chicago'],74,Chicago X,0.434,0.563,11,-6.784,1,0.0268,0.0197,0.000824,0.128,0.275,104.183,audio_features,235373,4,1976-06-14
+5nk6wxUSFUBxUKxjz0fKD6,Head Games,['Foreigner'],54,Head Games,0.678,0.693,1,-6.133,1,0.0249,0.0139,0.0,0.0596,0.623,107.415,audio_features,217706,4,1979-09-10
+7vJnM5FUcOV3xAKJHSSUWj,"I'm Alright - Theme from ""Caddyshack""",['Kenny Loggins'],47,"Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",0.554,0.833,7,-7.562,1,0.0459,0.128,1.75e-06,0.3,0.95,162.854,audio_features,226373,4,1997-03-25
+1sjrDQXqAa9V07FjKIlAQ4,Hemorrhage (In My Hands),['Fuel'],60,Something Like Human,0.301,0.823,1,-4.072,1,0.0433,0.000144,0.000309,0.0833,0.372,152.017,audio_features,236866,4,2000-09-19
+2RChe0r2cMoyOvuKobZy44,Always,['Bon Jovi'],73,Cross Road,0.384,0.659,4,-5.558,1,0.0314,0.115,0.0,0.0778,0.326,140.795,audio_features,353026,4,1994-10-18
+6ADSaE87h8Y3lccZlBJdXH,With Or Without You,['U2'],77,The Joshua Tree (Super Deluxe),0.54,0.429,2,-11.822,1,0.0285,0.000202,0.355,0.141,0.113,110.171,audio_features,295515,4,1987-03-03
+6PypGyiu0Y2lCDBN1XZEnP,Everybody Hurts,['R.E.M.'],72,Automatic For The People,0.467,0.324,2,-10.451,1,0.0255,0.615,0.0248,0.118,0.166,94.301,audio_features,320266,3,1992-10-05
+0pUVeEgZuNyFzIMKp67RbS,Eyes Without A Face,['Billy Idol'],77,Rebel Yell,0.54,0.816,9,-6.197,1,0.0421,0.0177,0.00226,0.276,0.658,85.563,audio_features,299240,4,1983-11-01
+3a9urnht8HvfFzPwd0ipx6,Holy Diver,['Killswitch Engage'],61,As Daylight Dies (Special Edition),0.369,0.995,0,-2.584,0,0.12,7.6e-05,0.00589,0.241,0.27,185.985,audio_features,250253,4,2007-02-06
+0pQskrTITgmCMyr85tb9qq,Starman - 2012 Remaster,['David Bowie'],77,The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),0.486,0.449,5,-10.298,1,0.0267,0.166,2.23e-06,0.54,0.549,100.456,audio_features,254293,4,1972-06-06
+1jMaB19DiVR8OihLSuYFOt,Spoonman,['Soundgarden'],65,Superunknown (20th Anniversary),0.457,0.902,7,-5.624,1,0.0313,2.17e-05,0.196,0.258,0.834,92.711,audio_features,246920,4,1994-03-09
+1SRkKyJ2JjMZgyDWC30zKv,My Best Friend's Girl,['The Cars'],61,The Cars,0.799,0.608,5,-8.193,1,0.0411,0.0854,0.0138,0.102,0.963,121.916,audio_features,223253,4,1978-06-06
+0vOkmmJEtjuFZDzrQSFzEE,Hit Me With Your Best Shot,['Pat Benatar'],70,Crimes Of Passion,0.741,0.58,4,-9.05,1,0.0304,0.117,3.61e-05,0.212,0.944,127.402,audio_features,171266,4,1980-08-05
+28eg5bkYvIHT7HPmzZFwLN,Lonely Is The Night - Remastered 2010,['Billy Squier'],60,Don't Say No (Remastered 2010),0.347,0.803,9,-4.923,1,0.0416,0.209,4.36e-06,0.116,0.672,85.362,audio_features,281453,4,1981
+3SFXsFpeGmBTtQvKiwYMDA,Pretty Fly (For A White Guy),['The Offspring'],75,Americana,0.723,0.895,11,-3.707,0,0.102,0.088,0.0,0.0717,0.963,143.373,audio_features,188666,4,1998-11-16
+5Ds0VGkTSQ1jf4KzLUpZPb,Change the World,['Eric Clapton'],62,Clapton Chronicles: The Best of Eric Clapton,0.721,0.558,9,-8.8,1,0.0246,0.491,0.00538,0.181,0.542,96.895,audio_features,234866,4,1999-10-12
+1N9KAY1WftAtnTqbf8ULKZ,Lovin' Every Minute of It,['Loverboy'],49,Lovin' Every Minute Of It,0.524,0.69,9,-13.527,1,0.0416,0.211,0.0,0.243,0.846,173.274,audio_features,213293,4,1985
+0FoB9BAV7B2Kv6NxOFZtSO,When You Close Your Eyes,['Night Ranger'],46,Midnight Madness,0.473,0.673,0,-14.122,1,0.0363,0.0132,0.0,0.134,0.517,138.184,audio_features,256506,4,1983-01-01
+3OghNV9ZOUbAj62CZptOEP,Your Love Is Driving Me Crazy,['Sammy Hagar'],47,Three Lock Box,0.586,0.574,4,-10.83,1,0.0312,0.135,0.0,0.169,0.739,146.738,audio_features,211226,4,1982-01-01
+55RyxEG3yRk777u9gjug6V,Fool for Your Loving - 2019 Remaster,['Whitesnake'],28,Slip of the Tongue (Super Deluxe Edition; 2019 Remaster),0.489,0.896,9,-6.868,0,0.0411,0.00096,5.97e-05,0.157,0.42,125.687,audio_features,250307,4,2019-10-04
+4gpext9x0CbdD9NWaa4nDj,Amanda,['Boston'],60,Third Stage,0.449,0.424,7,-14.06,1,0.0323,0.32,1.69e-06,0.107,0.259,125.494,audio_features,256200,4,1986-01-01
+1wpRglLhQ092N1rftlDMD3,Lady,['Styx'],50,Styx II,0.393,0.678,7,-6.584,1,0.0377,0.172,0.0,0.0727,0.358,137.38,audio_features,177680,4,1973
+64BbK9SFKH2jk86U3dGj2P,Otherside,['Red Hot Chili Peppers'],79,Californication (Deluxe Edition),0.458,0.795,0,-3.265,1,0.0574,0.00316,0.000202,0.0756,0.513,123.229,audio_features,255373,4,1999-06-08
+0tZ3mElWcr74OOhKEiNz1x,Bulls On Parade,['Rage Against The Machine'],71,Evil Empire,0.412,0.919,5,-7.291,1,0.184,0.0124,0.0601,0.424,0.572,166.367,audio_features,229466,4,1996-04-16
+3jaRUUaJUvS57h1DyVzUUX,Where You Goin' Now,['Damn Yankees'],47,Don't Tread,0.48,0.72,7,-5.607,1,0.0283,0.0116,0.0,0.114,0.383,76.54,audio_features,279846,4,1992
+429IbFR4yp2J81CeTwF5iY,Sweetness,['Jimmy Eat World'],66,Bleed American,0.487,0.898,5,-4.436,1,0.038,0.00305,0.0,0.26,0.597,135.331,audio_features,220026,4,2001-07-17
+6yVSp9H2STyLeOs7pjy2w4,Hands Down,['Dashboard Confessional'],61,"A Mark, A Mission, A Brand, A Scar",0.463,0.827,3,-4.085,1,0.0437,0.013,2.41e-05,0.0964,0.26,94.035,audio_features,186866,4,2003-01-01
+4gVTozEmzwAUXpwj3jEetX,Highway Star,['Deep Purple'],54,Machine Head,0.298,0.895,9,-7.647,0,0.0547,0.0283,0.00574,0.305,0.544,173.737,audio_features,368506,4,1972-03-25
+1Y13csEpu3TK5gQdzGLrd8,Pardon Me,['Incubus'],67,Make Yourself,0.579,0.812,1,-6.509,0,0.0693,0.00114,0.00333,0.115,0.278,152.002,audio_features,223746,4,1999-10-26
+16DhvbuyvJob4Q9GHNYu2n,She Hates Me,['Puddle Of Mudd'],71,Come Clean,0.58,0.748,4,-5.433,1,0.0323,0.00935,0.0,0.753,0.584,109.781,audio_features,216760,4,2001-08-28
+0CkspLl535ZxdwCRs8AdZ4,Plush - 2017 Remaster,['Stone Temple Pilots'],63,Core (Super Deluxe Edition),0.426,0.94,7,-5.279,0,0.0424,0.00671,1.72e-06,0.14,0.466,144.472,audio_features,313946,4,1992-09-29
+0W7AbEauB7cP4pidLclApe,Hunger Strike,['Temple Of The Dog'],64,Temple Of The Dog,0.373,0.567,7,-10.835,1,0.032,0.0236,3.47e-06,0.0916,0.298,137.789,audio_features,246266,4,1990-01-01
+420JGkyLfLUZcgBHKiIK9v,45,['Shinedown'],65,Leave a Whisper (Deluxe Edition),0.446,0.657,7,-4.494,1,0.0262,0.0022,0.0,0.189,0.215,152.132,audio_features,250093,3,2003-05-27
+1ZtVN326V42hioNyRjU4P2,Colors,['Crossfade'],64,Crossfade,0.337,0.835,2,-6.351,0,0.057,0.00174,0.0,0.0945,0.418,87.561,audio_features,198533,4,2004-04-13
+42ZVk59gT4tMlrZmd8Ijxf,Indestructible,['Disturbed'],66,Indestructible (Deluxe Edition),0.429,0.966,8,-4.605,1,0.0733,0.000209,0.124,0.371,0.525,179.956,audio_features,278026,4,2008-04-29
+1UREw2MCfU0xwBzCAjxlUD,Scars,['Papa Roach'],68,Getting Away With Murder,0.384,0.921,11,-3.334,1,0.055,0.0948,0.0,0.168,0.471,89.922,audio_features,208186,4,2004-01-01
+0HOrDVS349XFcpCYsO2hAP,You Ain't Seen Nothing Yet,['Bachman-Turner Overdrive'],68,Not Fragile,0.475,0.439,11,-15.039,0,0.0427,0.000146,0.000277,0.223,0.76,118.392,audio_features,234866,4,1974
+6VoIBz0VhCyz7OdEoRYDiA,Say It Ain't So - Original Mix,['Weezer'],74,Weezer,0.634,0.551,3,-7.136,1,0.0352,0.00737,1.82e-05,0.07,0.453,151.779,audio_features,258826,4,1994-05-10
+0wz1LjDb9ZNEYwOmDJ3Q4b,Surfin' U.S.A. - Remastered 2001,['The Beach Boys'],70,Surfin' USA (Remastered),0.55,0.854,3,-5.968,1,0.036,0.661,0.0,0.112,0.965,159.231,audio_features,149373,4,1963-03-25
+5G1sTBGbZT5o4PNRc75RKI,Lonely Boy,['The Black Keys'],73,El Camino,0.356,0.872,2,-7.837,1,0.068,0.00417,0.00975,0.0997,0.607,166.3,audio_features,193653,4,2011-12-06
+21Qsj3cMVCx2xF2EVVNbEu,Fell In Love With a Girl,['The White Stripes'],68,White Blood Cells,0.356,0.982,4,-1.574,0,0.112,0.713,0.00145,0.941,0.299,95.754,audio_features,110093,4,2001-07-03
+29CJGwJt5wyo7Sjje87Cy8,Lay It On The Line,['Triumph'],52,Greatest Hits Remixed,0.228,0.872,9,-5.479,0,0.0627,0.00672,0.0,0.242,0.279,91.718,audio_features,246026,4,2010-05-14
+2ZOTtG7v1OrSNs6EINIGb4,Black Betty,['Ram Jam'],62,The Very Best Of Ram Jam,0.465,0.865,11,-9.573,0,0.098,0.018,0.00135,0.0769,0.677,117.528,audio_features,237893,4,1990-02-27
+5NK8jad728pj6YeqM5VJD4,She Talks To Angels,['The Black Crowes'],62,Shake Your Money Maker,0.584,0.521,4,-5.782,1,0.0295,0.06,7.56e-05,0.22,0.317,160.058,audio_features,329400,4,1990-02-13
+1yfhNXXxWvBByyRkAsdcrV,We're Still Here,['Steve Perry'],29,Traces,0.264,0.569,7,-6.002,1,0.0353,0.391,0.0,0.16,0.271,185.76,audio_features,246186,4,2018-10-05
+3IyCL4Em1GOpNGDf451Hg1,Could Have Been Me,['The Struts'],70,Everybody Wants,0.541,0.907,4,-4.512,1,0.0642,0.0158,0.000185,0.34,0.434,80.029,audio_features,187653,4,2016-03-04
+6BmzbaB08O0FjHXeS0cR5b,Dancing In The Moonlight (It's Caught Me In It's Spotlight),['Thin Lizzy'],57,Bad Reputation (Expanded Edition),0.671,0.461,4,-13.874,0,0.13,0.00755,0.0,0.103,0.784,145.187,audio_features,204653,4,1977
+6xq5DxZWGgdStAxGAil0yw,Since You Been Gone,['Rainbow'],65,Down To Earth,0.733,0.726,7,-6.514,1,0.0371,0.379,2.58e-06,0.471,0.915,120.814,audio_features,197160,4,1979-01-01
+3hJLKtTpgct9Y9wKww0BiR,Miss You - Remastered,['The Rolling Stones'],68,Some Girls,0.795,0.71,9,-4.746,0,0.0392,0.443,0.0215,0.344,0.845,109.689,audio_features,288666,4,1978-06-09
+3Dfy8YIxq89i84t108TvMi,Love Bites - Remastered 2017,['Def Leppard'],62,Hysteria (Super Deluxe),0.59,0.743,0,-7.078,0,0.0347,0.067,0.00093,0.0847,0.412,129.79,audio_features,346960,4,1987-08-03
+27kMqdX3aoN3gBndVKlTfR,Fallen Angel - Remastered 2006,['Poison'],57,Open Up And Say...Ahh! (20th Anniversary Edition),0.511,0.935,6,-3.633,1,0.0492,0.00864,1.37e-06,0.255,0.502,148.077,audio_features,238200,4,1988-03-21
+0xaNdYwK8ZF3cHSjraQGC0,Rocket Queen,"[""Guns N' Roses""]",59,Appetite For Destruction,0.446,0.978,5,-5.275,0,0.0443,0.0305,0.162,0.0377,0.399,111.795,audio_features,373266,4,1987-07-21
+05A9GC5OxmgvvRji2SCVzh,In a Darkened Room,['Skid Row'],60,Slave to the Grind,0.348,0.668,4,-8.97,0,0.0313,0.00275,1.05e-06,0.192,0.364,62.919,audio_features,235066,4,1991-06-11
+5uuJruktM9fMdN9Va0DUMl,Play That Funky Music,['Wild Cherry'],69,Wild Cherry,0.814,0.672,9,-12.068,1,0.0619,0.0435,0.0,0.061,0.933,109.394,audio_features,300000,4,1976
+0L7zm6afBEtrNKo6C6Gj08,Painkiller,['Judas Priest'],64,Painkiller,0.435,0.987,1,-4.667,0,0.16,0.000195,0.0879,0.268,0.1,103.162,audio_features,365826,4,1990-09-26
+3X6iIrFuQoCshIWBseEKPl,American Woman,['Lenny Kravitz'],62,5,0.688,0.671,1,-7.872,1,0.0975,0.0304,0.0,0.0782,0.537,83.988,audio_features,264560,4,1998-05-12
+6FnuMo55jNECTDdS1nD5H0,Dancing in the Street - 2002 Remaster,"['David Bowie', 'Mick Jagger']",55,Dancing In The Street E.P.,0.6,0.816,4,-13.64,1,0.0431,0.117,0.0,0.126,0.744,130.99,audio_features,204786,4,1985-08-12
+4XvvR8F6qOcnzgChO1uTIO,Overkill,['Motörhead'],56,Overkill (Expanded Edition),0.27,0.886,11,-6.9,1,0.117,7.62e-06,0.0258,0.0899,0.19,119.283,audio_features,313520,4,1979-03-24
+2sevvnMrqH607r5lwk3kFT,Is This Love,['Bob Marley & The Wailers'],64,Legend - The Best Of Bob Marley And The Wailers,0.775,0.559,6,-8.377,0,0.088,0.108,0.0,0.0945,0.804,122.238,audio_features,230733,4,2002-01-01
+2grjqo0Frpf2okIBiifQKs,September,"['Earth, Wind & Fire']",73,"The Best Of Earth, Wind & Fire Vol. 1",0.697,0.832,9,-7.264,1,0.0298,0.168,0.00131,0.269,0.979,125.926,audio_features,215093,4,1978-11-23
+5fgkjhICZnqFctrV0AyuQD,Walking in Memphis,['Marc Cohn'],66,Marc Cohn,0.567,0.512,0,-8.831,1,0.0357,0.545,0.0,0.296,0.334,130.271,audio_features,252613,4,1991-02-08
+6xpDh0dXrkVp0Po1qrHUd8,Adam's Song,['blink-182'],71,Enema Of The State,0.52,0.775,0,-5.803,1,0.0348,0.034,0.0,0.364,0.383,136.02,audio_features,249626,4,1999-06-01
+6ToM0uwxtPKo9CMpbPGYvM,Break on Through (To the Other Side),['The Doors'],70,The Doors,0.421,0.751,9,-9.584,1,0.0472,0.2,0.0,0.17,0.789,89.839,audio_features,145866,4,1967-01-04
+6ORqU0bHbVCRjXm9AjyHyZ,Good Riddance (Time of Your Life),['Green Day'],81,Nimrod,0.475,0.432,7,-7.844,1,0.0302,0.183,0.0,0.161,0.648,94.605,audio_features,153466,4,1997-10-14
+2Pr1nZpt8A8WP7QYpyq6L3,Wildflowers,['Tom Petty'],68,Wildflowers,0.537,0.315,5,-13.79,1,0.0271,0.588,2.29e-05,0.206,0.575,86.813,audio_features,190320,4,1994-10-21
+5zH710lFSLtkHbMkslLDjR,Crazy On You,['Heart'],66,Dreamboat Annie,0.435,0.459,9,-12.442,0,0.0329,0.117,0.000103,0.132,0.383,129.929,audio_features,293440,4,1975
+0cO7JEo8deKuQMWpDyjenY,Time for Me to Fly,['REO Speedwagon'],57,"You Can Tune a Piano, But You Can't Tuna Fish",0.463,0.629,2,-7.075,1,0.0269,0.0524,0.0,0.176,0.459,81.797,audio_features,221386,4,1978-03-16
+6g14FUj5zU9FDRwBi963vS,My Kinda Lover - Remastered 2010,['Billy Squier'],60,Don't Say No (Remastered 2010),0.534,0.461,9,-6.603,0,0.0361,0.468,6.43e-05,0.036,0.783,95.105,audio_features,213533,4,1981
+2RNd6VgxG19db0zs0M1C4Z,Jane,['Jefferson Starship'],56,Freedom At Point Zero,0.589,0.82,2,-9.602,1,0.0369,0.204,0.018,0.423,0.788,117.305,audio_features,252200,4,1979-11-01
+7gREIuHognJFspylIDJ94p,Vienna,['Billy Joel'],51,The Stranger,0.532,0.495,10,-6.662,1,0.0343,0.659,0.0,0.0754,0.308,124.936,audio_features,214240,4,1977-09-29
+78WVLOP9pN0G3gRLFy1rAa,Piano Man,['Billy Joel'],58,Piano Man,0.334,0.477,0,-8.806,1,0.0276,0.618,4.17e-06,0.312,0.405,179.239,audio_features,336200,3,1973-11-09
+62LJFaYihsdVrrkgUOJC05,Kiss,['Prince'],74,Parade - Music from the Motion Picture Under the Cherry Moon,0.898,0.271,7,-12.238,1,0.091,0.0135,0.00138,0.0461,0.742,111.485,audio_features,226240,4,1986-03-31
+7zMUCLm1TN9o9JlLISztxO,Burning Love,['Elvis Presley'],76,Elvis (Fool),0.66,0.748,2,-11.206,1,0.0284,0.0993,0.00585,0.283,0.972,143.549,audio_features,170293,4,1973-07-16
+2TjnCxxQRYn56Ye8gkUKiW,Desperado - 2013 Remaster,['Eagles'],64,Desperado (2013 Remaster),0.228,0.224,7,-12.749,1,0.0311,0.946,0.000222,0.273,0.18,60.3,audio_features,213712,4,1973-04-17
+7LRMbd3LEoV5wZJvXT1Lwb,T.N.T.,['AC/DC'],78,High Voltage,0.754,0.759,9,-5.218,1,0.302,0.153,0.000108,0.101,0.435,126.366,audio_features,214666,4,1976-05-14
+7lwvxYumAEo10lzAplRGXM,The Unforgiven (Remastered),['Metallica'],63,Metallica (Remastered),0.531,0.583,7,-9.47,1,0.0256,0.0184,0.00624,0.255,0.207,139.503,audio_features,387160,4,1991-08-12
+31H6au3jhblhr6MMJiXnCq,"Hungry Eyes - From ""Dirty Dancing"" Soundtrack",['Eric Carmen'],76,The Definitive Collection,0.712,0.549,5,-9.484,1,0.0254,0.011,0.0,0.118,0.552,109.882,audio_features,251066,4,1997
+43LjRHyyetSWnPpW7CWThG,Do You Believe In Love,['Huey Lewis & The News'],56,Picture This,0.547,0.636,11,-10.948,1,0.0314,0.0582,0.0,0.249,0.817,114.054,audio_features,209000,4,1982-01-01
+3MrWxJaD2AT0W9DjWF64Vm,Come On Eileen,['Dexys Midnight Runners'],74,Too Rye Ay,0.45,0.656,2,-7.049,1,0.0472,0.664,3.02e-06,0.259,0.782,106.61,audio_features,287306,4,1982-07-22
+6nnacTL5on2aVsRhVDNUSo,Through the Fire and Flames,['DragonForce'],59,Inhuman Rampage,0.113,0.951,0,-4.743,0,0.129,0.00176,0.00718,0.334,0.139,200.024,audio_features,441560,4,2006-05-23
+2Z9B8sd6HgEfCWqvOfhFD0,Everybody Wants You,['Billy Squier'],50,Absolute Hits,0.529,0.906,7,-6.116,1,0.0517,0.105,3.78e-05,0.0757,0.965,131.847,audio_features,228146,4,2005-03-29
+3fkPMWQ6cBNBLuFcPyMS8s,Burnin' for You,['Blue Öyster Cult'],64,Fire of Unknown Origin,0.532,0.728,9,-9.079,0,0.0352,0.106,0.0108,0.0849,0.69,134.303,audio_features,271000,4,1981-10-23
+2I1W3hcSsPIsEJfD69pHrW,Raspberry Beret,['Prince'],61,Around The World In A Day,0.761,0.67,2,-12.759,1,0.0438,0.21,0.000426,0.0684,0.91,120.75,audio_features,215173,4,1985-04-22
+0qdvGRp9CezqI9vFrlhKRW,Two Heads Are Better Than One,['Power Tool'],36,Bill & Ted’s Excellent Adventure,0.68,0.853,2,-12.721,1,0.0302,0.0128,0.0,0.0778,0.836,123.692,audio_features,265866,4,1989-02-17
+0HOrDVS349XFcpCYsO2hAP,You Ain't Seen Nothing Yet,['Bachman-Turner Overdrive'],68,Not Fragile,0.475,0.439,11,-15.039,0,0.0427,0.000146,0.000277,0.223,0.76,118.392,audio_features,234866,4,1974
+22ML0MuFKfw16WejbxsLOy,Heartbreaker,['Pat Benatar'],61,In The Heat Of The Night,0.459,0.588,5,-10.671,0,0.0819,0.283,9.99e-06,0.0535,0.881,156.186,audio_features,209360,4,1979-01-01
+0d3qwh4HY9w6Ywywj6ksTv,Lay It Down,['Ratt'],60,The Essentials: Ratt,0.607,0.86,7,-8.994,1,0.0335,0.000354,0.0232,0.263,0.34,99.072,audio_features,205466,4,1984
+7wuJGgpTNzbUyn26IOY6rj,Total Eclipse of the Heart,['Bonnie Tyler'],79,The Very Best of Bonnie Tyler,0.431,0.723,8,-5.887,1,0.0568,0.145,0.0,0.374,0.19,130.141,audio_features,267360,4,2009-03-26
+3kfXUGIdBNpyr2gBvU3Guj,Angel,['Aerosmith'],59,Permanent Vacation,0.239,0.819,3,-3.583,1,0.0393,0.304,0.0,0.0855,0.439,171.449,audio_features,308906,4,1987-01-01
+23IJ5wLRhEZ9DOuia5mPiZ,Who Are You,['The Who'],62,Who Are You,0.651,0.648,9,-11.409,1,0.0501,0.262,0.0042,0.0655,0.49,156.372,audio_features,381626,4,1978-08-18
+7EHmKkyAr6MZv5Y2FdZbXw,Lights,['Journey'],60,Infinity,0.193,0.498,7,-9.901,1,0.0381,0.107,0.00711,0.332,0.344,205.422,audio_features,190333,3,1978
+07HqIg8BnB1lJElnw2ZiSR,I'll Be There For You,['Bon Jovi'],66,New Jersey (Deluxe Edition),0.437,0.727,2,-5.432,1,0.0293,0.0532,0.0,0.103,0.233,73.029,audio_features,346586,4,1988-09-13
+1OEoNpiyqBghuEUaT6Je6U,Patience,"[""Guns N' Roses""]",70,Appetite For Destruction (Super Deluxe Edition),0.457,0.296,6,-12.511,1,0.0306,0.683,0.000119,0.109,0.333,120.02,audio_features,354880,4,1987-07-21
+7nemcVsXVFZF01iqpIIo2Y,It's a Long Way to the Top (If You Wanna Rock 'N' Roll),['AC/DC'],70,High Voltage,0.456,0.863,3,-3.551,1,0.0894,0.133,0.0538,0.0553,0.532,135.962,audio_features,301226,4,1976-05-14
+51YZAJhOwIC5Gg3jMbAmhZ,For Whom The Bell Tolls (Remastered),['Metallica'],69,Ride The Lightning (Deluxe Remaster),0.512,0.86,0,-6.145,1,0.0703,0.00631,0.00528,0.0652,0.258,117.909,audio_features,309973,4,1984-07-27
+5gRcv46AMTrosmTOqrOV3Q,Dumb,['Nirvana'],74,In Utero,0.697,0.395,6,-13.58,1,0.0281,0.428,0.653,0.173,0.876,113.589,audio_features,151893,4,1993-09-21
+6WkSUgo1VdpzgtiXKlFPcY,Dammit,['blink-182'],65,Dude Ranch,0.429,0.972,0,-5.122,1,0.0953,0.0017,0.0,0.171,0.34,111.282,audio_features,165373,4,1997
+18lR4BzEs7e3qzc0KVkTpU,What I've Done,['Linkin Park'],81,Minutes to Midnight,0.627,0.935,5,-4.882,1,0.0324,0.0092,0.0,0.147,0.287,120.092,audio_features,205226,4,2007-05-14
+7w6PJe5KBPyvuRYxFkPssC,No More Tears,['Ozzy Osbourne'],70,No More Tears (Expanded Edition),0.346,0.749,6,-6.506,1,0.035,0.00167,8.86e-05,0.648,0.315,102.591,audio_features,443240,4,1991-09-17
+5dnwXK73BDZ0H2L06ZrKcE,Dr. Feelgood,['Mötley Crüe'],66,Dr. Feelgood,0.53,0.968,2,-3.941,1,0.0753,0.000702,0.0118,0.228,0.338,110.974,audio_features,289920,4,1989
+0FO5CkdIFiKOJNETXTyCMS,Your Mama Don't Dance,['Poison'],48,Open Up And Say...Ahh! (20th Anniversary Edition),0.534,0.931,1,-3.606,1,0.0614,0.0185,0.0,0.193,0.831,150.359,audio_features,180493,4,1988-03-21
+7h2yhVxcZOGyQdOwD4Hu8J,I Want To Break Free - Remastered 2011,['Queen'],59,The Works (Deluxe Remastered Version),0.795,0.433,4,-8.927,1,0.0324,0.0853,0.000284,0.0762,0.6,108.947,audio_features,258013,4,1984-02-27
+5E89Izp4YhPyNShoxiOJ1u,Rock & Roll Band,['Boston'],54,Boston,0.487,0.838,4,-6.153,1,0.0431,0.00351,2.92e-05,0.377,0.655,136.741,audio_features,180346,4,1976
+2tY1gxCKslfXLFpFofYmJQ,Brass Monkey,['Beastie Boys'],63,Licensed To Ill,0.914,0.586,6,-8.435,0,0.33,0.00203,1.58e-06,0.0992,0.655,116.371,audio_features,157440,4,1986-11-15
+4qbiCq2xkNPyojuZFeNeqx,Jailbreak,['Thin Lizzy'],54,Jailbreak (Deluxe Edition),0.616,0.761,3,-9.199,1,0.126,0.196,0.0025,0.374,0.708,145.074,audio_features,240600,4,1976
+2o4u19nlQWOGg5mLanT7Pg,Forever,['KISS'],58,Hot In The Shade,0.435,0.666,6,-10.596,1,0.031,0.254,1.4e-05,0.0541,0.566,176.431,audio_features,232640,4,1989-01-01
+1wsRitfRRtWyEapl0q22o8,Guerrilla Radio,['Rage Against The Machine'],67,The Battle Of Los Angeles,0.599,0.957,11,-5.764,1,0.188,0.0129,7.06e-05,0.155,0.489,103.68,audio_features,206200,4,1999-11-02
+2APxH5XbOLDTmW9X5yi6Hw,Dreams,['Van Halen'],58,5150,0.455,0.758,0,-11.361,1,0.0454,0.223,2.51e-06,0.0986,0.54,141.304,audio_features,294000,4,1986-03-24
+4yqtwO7MQIIXqoiRBPHAgR,Money for Nothing,['Dire Straits'],62,Brothers in Arms,0.667,0.655,2,-9.339,0,0.0367,0.0491,0.000894,0.0641,0.657,134.212,audio_features,506400,4,1985-05-13
+7BfW1eoDh27W69nxsmRicb,Buffalo Soldier,['Bob Marley & The Wailers'],70,Confrontation,0.929,0.463,9,-8.651,1,0.308,0.143,5.3e-06,0.0634,0.755,124.084,audio_features,255840,4,1983-05-23
+3YU9X8ryOR20beT7wOlDIJ,I'm Eighteen,['Alice Cooper'],57,Love It to Death,0.618,0.413,4,-14.164,0,0.0302,0.249,0.0517,0.131,0.531,97.84,audio_features,180760,4,1971
+6W7ztLBiRzBN46ZaPAcQ0F,"(I've Had) The Time Of My Life - From ""Dirty Dancing"" Soundtrack","['Bill Medley', 'Jennifer Warnes']",65,Dirty Dancing (Original Motion Picture Soundtrack),0.697,0.669,6,-12.723,0,0.0406,0.0404,0.00897,0.0654,0.486,108.506,audio_features,290333,4,1987-09-24
+5o37x6LpNSec4jSfPIChsQ,We Got The Beat - 2011 Remaster,"[""The Go-Go's""]",47,Beauty And The Beat (30th Anniversary Deluxe Edition),0.595,0.996,2,-3.418,1,0.0599,0.195,0.0345,0.0351,0.376,152.049,audio_features,151106,4,1981-07-08
+15iQTgs6zIsnIkVbQfnXrI,Call Me,['Blondie'],32,Once More Into The Bleach,0.387,0.688,0,-11.366,1,0.0418,0.0163,0.00557,0.0603,0.897,107.389,audio_features,427040,3,1988
+0gEyKnHvgkrkBM6fbeHdwK,Linger,['The Cranberries'],84,"Everybody Else Is Doing It, So Why Can't We?",0.439,0.434,7,-14.918,1,0.0265,0.0783,5.18e-05,0.14,0.204,94.843,audio_features,274706,4,1993-03-01
+2hnMS47jN0etwvFPzYk11f,Santeria,['Sublime'],77,Sublime,0.682,0.765,1,-5.021,0,0.0395,0.0268,3.42e-05,0.188,0.567,90.807,audio_features,182746,4,1996-07-30
+6XUHsYE38CEbYunT983O9G,Give A Little Bit,['Supertramp'],73,Even In The Quietest Moments,0.531,0.818,2,-5.358,1,0.0452,0.0694,0.0096,0.263,0.471,90.767,audio_features,248173,4,1977-01-01
+59CLe8stbcx4XYBWdsfbwK,One Way Or Another,['Blondie'],63,Parallel Lines,0.442,0.921,2,-5.086,1,0.0655,0.0532,3.89e-06,0.0767,0.855,162.267,audio_features,217364,4,1978-09-23
+67iAlVNDDdddxqSD2EZhFs,I'm Gonna Be (500 Miles),['The Proclaimers'],72,Sunshine on Leith,0.851,0.551,4,-5.177,1,0.0396,0.151,0.0,0.0827,0.807,131.922,audio_features,219466,4,1988
+0x2wtJbtJrox3SDmnMj97x,Gimme Three Steps,['Lynyrd Skynyrd'],65,Pronounced' Leh-'Nerd 'Skin-'Nerd,0.554,0.74,9,-7.706,1,0.0799,0.693,7.19e-05,0.225,0.803,133.363,audio_features,267173,4,1973-01-01
+2XvVueul226rT8g4DQuKSK,Killed by Death,['Motörhead'],52,All the Aces,0.388,0.956,6,-6.037,0,0.0471,0.00115,0.000573,0.464,0.24,134.589,audio_features,278373,4,2022-04-15
+6lFZbCc7pn6Lme1NP7qQqQ,You Can't Always Get What You Want,['The Rolling Stones'],65,Let It Bleed,0.32,0.62,0,-9.686,1,0.0594,0.64,6.36e-05,0.253,0.472,86.327,audio_features,448720,4,1969-12-05
+1FSkS6h2UVI2LGAXlOYzcY,"Love Somebody - from ""Hard to Hold"" - Original Soundtrack",['Rick Springfield'],39,Hard To Hold,0.566,0.892,4,-4.698,1,0.0339,0.0151,0.000406,0.0873,0.71,138.569,audio_features,213986,4,1984-04-07
+1EuqRlDP9RuzeCRVcjr1PY,Jungle Love,['Steve Miller Band'],56,Book Of Dreams,0.495,0.697,7,-12.325,0,0.218,0.198,0.000914,0.75,0.832,145.827,audio_features,187600,4,1977-01-01
+6pwQEpLOlwclrsjgEOHEp0,Shadows Of The Night,['Pat Benatar'],56,Get Nervous,0.522,0.682,6,-10.183,1,0.0344,0.29,1.23e-05,0.339,0.529,111.902,audio_features,261560,4,1982-01-01
+0YQeuXoLAK7WM2E8sswDdS,Back Where You Belong - Edited Version,['38 Special'],41,20th Century Masters The Millennium Collection: Best of 38 Special,0.525,0.746,7,-5.692,1,0.0318,0.00395,4.53e-05,0.0398,0.879,124.819,audio_features,242160,4,2000-01-01
+0nFKHCf1Ibij8m370l2KlZ,Good Times Roll - 2016 Remaster,['The Cars'],46,The Elektra Years 1978 - 1987,0.631,0.689,4,-8.358,1,0.0284,0.0731,0.000357,0.102,0.645,107.667,audio_features,225226,4,2016-03-11
+2kkvB3RNRzwjFdGhaUA0tz,Layla,['Derek & The Dominos'],69,Layla And Other Assorted Love Songs (Remastered 2010),0.404,0.902,1,-3.88,1,0.0665,0.577,0.297,0.287,0.497,115.669,audio_features,423840,4,1970-11-01
+3B4q6KbHbGV51HO3GznBFF,What I Got,['Sublime'],74,Sublime,0.804,0.696,7,-7.47,1,0.0899,0.00877,0.000985,0.314,0.657,95.721,audio_features,170906,4,1996-07-30
+3qLZ866ZfaK0B0R5FIqXLG,She Sells Sanctuary,['The Cult'],66,Love,0.55,0.765,7,-8.684,1,0.0287,4.76e-06,0.873,0.132,0.419,139.46,audio_features,252533,4,1985-10-18
+1xOXXYh6lTW8laxlW7JP2J,Only the Good Die Young,['Billy Joel'],64,The Stranger (Legacy Edition),0.579,0.872,0,-6.126,1,0.159,0.159,0.0,0.0935,0.761,76.214,audio_features,235560,4,1977
+2PFIZFcGry0po3ZfRZkzKc,Hysteria,['Def Leppard'],69,Hysteria,0.659,0.846,7,-5.508,1,0.0274,0.0318,0.0144,0.203,0.659,107.01,audio_features,354636,4,1987-08-03
+3qyHjQ1zTLvPeA99CP3K9N,Shout It Out Loud,['KISS'],52,Destroyer,0.571,0.953,3,-5.002,1,0.0568,0.124,5.57e-06,0.35,0.682,135.599,audio_features,169026,4,1976-03-15
+5LDZbklcDwQeeScf7dUlo4,Big City Nights,['Scorpions'],55,Love At First Sting,0.532,0.723,9,-11.779,0,0.0333,0.00152,0.00425,0.078,0.866,137.662,audio_features,249306,4,1984-03-27
+1nFtiJxYdhtFfFtfXBv06s,Something In The Way,['Nirvana'],67,Nevermind (Remastered),0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,audio_features,232146,4,1991-09-26
+4eAwB5pnKFTmsgc3zWoYO0,Fake It,['Seether'],73,Finding Beauty In Negative Spaces (Bonus Track Version),0.611,0.95,8,-3.509,1,0.0518,0.00141,1.59e-06,0.0543,0.607,132.078,audio_features,193893,4,2007-01-01
+70wYA8oYHoMzhRRkARoMhU,When You Were Young,['The Killers'],75,Sam's Town,0.467,0.988,11,-3.313,1,0.112,0.000152,0.0484,0.28,0.321,130.433,audio_features,220426,4,2006-09-27
+3AJwUDP919kvQ9QcozQPxg,Yellow,['Coldplay'],88,Parachutes,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,0.285,173.372,audio_features,266773,4,2000-07-10
+3NLrRZoMF0Lx6zTlYqeIo4,Here Without You,['3 Doors Down'],75,Away From The Sun,0.557,0.533,10,-6.817,0,0.0252,0.0492,0.0,0.205,0.233,143.994,audio_features,238733,4,2002-11-12
+3BQHpFgAp4l80e1XslIjNI,Yesterday - Remastered 2009,['The Beatles'],76,Help! (Remastered),0.332,0.179,5,-11.83,1,0.0326,0.879,0.0,0.0886,0.315,96.524,audio_features,125666,4,1965-08-06
+4CoSCPlKNrWli7E5kFtbcl,Little Lies - 2017 Remaster,['Fleetwood Mac'],73,Tango In the Night (Deluxe Edition),0.64,0.649,2,-10.345,1,0.0264,0.216,8.3e-05,0.0551,0.865,124.825,audio_features,221053,4,1987-04-13
+0oIbfeHdm2BmD1jWD29dQc,All She Wrote (2024 Remaster),['Firehouse'],47,Firehouse (2024 Remaster),0.604,0.882,8,-4.947,1,0.0351,7.61e-05,0.118,0.194,0.261,121.327,audio_features,267250,4,1990-08-20
+1brpdmqkx3kSxyqzqXfW7J,Heaven's On Fire,['KISS'],64,Animalize,0.679,0.866,0,-6.053,1,0.0635,0.00376,3.1e-05,0.312,0.785,124.324,audio_features,201400,4,1984-09-13
+4igIYHF3B5VBxEafHauVo3,Fat Bottomed Girls - Remastered 2011,['Queen'],64,Jazz (Deluxe Remastered Version),0.337,0.684,2,-7.674,1,0.0495,0.0319,6.57e-06,0.342,0.404,88.772,audio_features,255600,4,1978-11-10
+1HOMkjp0nHMaTnfAkslCQj,My Sharona,['The Knack'],69,Get The Knack,0.586,0.7,0,-9.558,1,0.0363,0.0589,0.00125,0.0318,0.897,147.245,audio_features,295400,4,1979-01-01
+0cuq829zRNq4AEdmDJA4aw,Two Princes,['Spin Doctors'],71,Pocket Full Of Kryptonite (Anniversary Edition),0.544,0.905,7,-10.732,1,0.0646,0.00165,1.97e-06,0.0532,0.825,103.594,audio_features,256946,4,1991
