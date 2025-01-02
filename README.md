@@ -19,5 +19,8 @@ A visualization of the model can be seen below:
 ![model_spotify_image](https://github.com/user-attachments/assets/77a33f44-6336-4edf-9359-a5efbb6c5a64)
 
 **Results**
+
 The team's two-part machine learning model was tested on a variety of playlists, including genre-based and utility-focused playlists (e.g., workout, study). The XGboost model was fit to each of these playlists resulting in an average test accuracy of 0.84 and average precision of 0.86 across the playlists tested. The model performed best on genre-specific playlists like pop and old-school rap, which had test precisions of 0.93 and 0.94 respectively. From these results, it was concluded that playlists that shared a specific genre or music type will typically result in a more accurate classification model, and thus better quality recommendations. 
+
+**Please see the project's reports (final report specifically) for more information regarding the project, model architecture, results, conclusions etc.**
 
